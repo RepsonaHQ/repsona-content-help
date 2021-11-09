@@ -1,68 +1,67 @@
 ---
-title: スペースメンバーを設定する（権限や料金・お支払いのステータスを設定する）
+title: Manage space members (set role and billing status)
 categoryId: settings
 subCategoryId: Administrator settings
-translating: true
 ---
 
-Repsona スペース内のメンバーを管理します。スペースにメンバーを招待したり、権限の変更をする方法を説明します。
+Manages the members in the Repsona space. Learn how to invite members to the space and change permissions.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-## スペースメンバーを設定する
+## Manage space members
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. 「メンバー」タブを開きます。
+3. Open the Members tab.
 
-### 新しいメンバーを招待する
+### Invite new members
 
-1. 「新しいメンバーを招待する」ボタンをクリックします。
-1. 招待したいメンバーのメールアドレスとユーザーネーム、招待したいプロジェクトを入力し、「招待する」ボタンをクリックします。
+1. Click the "Invite new member" button.
+1. Enter the email address and user name of the member you want to invite, the project you want to invite, and click the "Invite" button.
 
-スペースに招待されたメンバーには Repsona に参加するためのリンクが記載されたメールが届きます。参加ユーザーはパスワードをセットしてログインすることができます。
+Members invited to the space will receive an email with a link to join Repsona. The user can set a password to log in.
 
-招待リンクを共有してメンバーをスペースに招待することもできます。
+You can also share the invitation link to invite members to the space.
 
-### ログインできないメンバーを作成する
+### Create a no-login member
 
-1. 「新しいメンバーを招待する」ボタンをクリックします。
-1. ユーザーネームなどを入力します。
-1. 「ログインを許可する」チェックを外します
-1. 「作成する」ボタンをクリックします。
+1. Click the "Invite new member" button.
+1. Enter the user name etc.。
+1. Uncheck "Allow login"
+1. Click the "Create" button.
 
-ログインできないメンバーをプロジェクトに参加させることで、このメンバーに担当やボールを設定することができるようになります。
+By joining a member who cannot log in to the project, you will be able to assign a person in charge or a ball to this member.
 
-例えば、チームメイト以外の外部のパートナーや、仕事上のやりとりをする相手などを「ログインできないメンバー」として作成してプロジェクトに参加させることで、仕事のやりとりの中でボールを持っている人を明確にすることができます。
+For example, create an external partner other than your teammates or a business communication partner as "no-login". You can identify who has the ball in your work interaction by having that member participate in the project.
 
-### 権限を設定する
+### Set role
 
-*権限の変更はオーナーのみ可能です*
+*Owner only*
 
-メンバーの権限を設定・変更することができます。「オーナー」「管理者」「メンバー」「ログイン不可」の中から選択することができます。オーナーは自分以外のメンバーをオーナーに変更した場合、直ちに「管理者」に切り替わり、オーナー権限がなくなります。
+You can set and change the privileges of members. You can select from "Owner", "Admin", "Member", and "no-login". If the owner changes a member other than them to the owner, they will immediately switch to "Admin" and lose the owner authority.
 
-### 料金・お支払いのステータスを設定する
+### Set billing status
 
-料金・お支払いのステータスを設定・変更することができます。「アクティブ」「解除済み」から選択することができます。有料プランではアクティブメンバー1人あたりの料金が設定されています。解除済みメンバーはアクティブ数にカウントされません。
+You can set and change the billing status. You can select from "Active" and "Inactive". With the paid plan, there is a charge per active member. Inactive members are not counted as active.
 
-### 招待中のメンバー
+### Inviting members
 
-招待中のメンバーと、メールアドレス未設定のログイン不可のメンバーの右にはサブメニューが表示されます。
+A submenu is displayed to the right of the inviting members and the no-login members whose email addresses have not been set.
 
 <img src="/images/help/sub-menu.png" width="36">
 
-#### メールアドレスを設定して招待する
+#### Set an email address and invite
 
-招待中のメンバーのメールアドレスを変更して再招待する場合、新しいメールアドレスをセットして「招待メールを送信する」ボタンを押してください。
+If you want to change the email address of the member you are inviting and re-invite, please set a new email address and click the "Send Invitation Email" button.
 
-メールアドレス未設定のログイン不可のメンバーに、メールアドレスをセットして「招待メールを送信する」ボタンを押すと、ログイン可能なメンバーとして、スペースに招待することができます。
+If you set your e-mail address to no-login member whose e-mail address has not been set and click the "Send invitation e-mail" button, you can invite to the space as a member who can log in.
 
-#### 情報を変更する
+#### Change information
 
-招待中のメンバーのユーザーネーム、フルネームを変更することができます。スペースに参加済みのメンバーの情報は、各メンバーのみ変更することができます。
+You can change the user name and full name of the invited member. The information of the members who have joined the space can be changed only for each member.
 
-#### 招待を取り消す
+#### Revoke invitation
 
-招待を取り消します。この操作は元に戻せません。
+Revoke the invitation. This operation is irreversible.

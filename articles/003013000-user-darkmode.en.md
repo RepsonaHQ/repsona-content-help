@@ -1,24 +1,23 @@
 ---
-title: 表示モード（ダークモード、ライトモード）を設定する
+title: Set the display mode (dark mode, light mode)
 categoryId: settings
 subCategoryId: User settings
-translating: true
 ---
 
-Repsona ユーザー（自分が利用するアカウント）の表示モード（ダークモード、ライトモード）設定について説明します。
+Describes the display mode (dark mode, light mode) settings for Repsona users (accounts they use).
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |All|All|
 
-## ダークモードに設定する
+## Set to dark mode
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. 「ダークモード」スイッチをオンにします。
+2. Turn on the "Dark Mode" switch.
 
-## ライトモードに設定する
+## Set to light mode
 
 1. Open the setting menu from the icon on the upper right of the screen.
-2. 「ダークモード」スイッチをオフにします。
+2. Turn off the "Dark Mode" switch.
 
-*デフォルトではシステムの設定に自動的に従います。*
+*By default, it automatically follows the system settings.*

@@ -1,44 +1,43 @@
 ---
-title: プロジェクトとプロジェクトメンバーを設定する
+title: Set up projects and project members
 categoryId: settings
 subCategoryId: Administrator settings
-translating: true
 ---
 
-Repsona スペース内のプロジェクトの設定と、プロジェクトへのメンバー追加について説明します。
+Describes how to set up a project in the Repsona space and add members to the project.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-## プロジェクトとプロジェクトメンバーを設定する
+## Set up projects and project members
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. 「プロジェクト」タブを開きます。
+3. Open the Projects tab.
 
-### プロジェクトを作成する
+### Create a project
 
-＋ボタンから プロジェクトを作ることができます。
+You can create a project from the + button.
 
 <img src="/images/help/create-button.png" width="46">
 
-*フリープランでは作成できるプロジェクトは 1 個です。*
+*Only one project can be created in the free plan.*
 
-プロジェクトの名称、プロジェクトネーム、初期メンバーをセットして「作成」をクリックするとプロジェクトが作成できます。
+You can create a project by setting the full name of the project, the project name, and the initial members and clicking "Create".
 
-### プロジェクトを設定する
+### Set up a project
 
-プロジェクト名の右の「設定」リンクから、プロジェクト設定画面に移動できます。プロジェクトメニューの設定ボタンからも同じ画面に移動します。
+You can go to the project setting screen from the "Settings" link to the right of the project name. You can also move to the same screen from the setting button in the project menu.
 
-### プロジェクトメンバーを設定する
+### Set project members
 
-プロジェクト名の下の「メンバーを追加する」プルダウンからプロジェクトに追加したいメンバーを選択して追加します。追加されたメンバーは、メンバー名の右上バツボタンをクリックするとプロジェクトから外れます。
+Select the member you want to add to the project from the "Add member" pull-down under the project name and add it. The added member can be removed from the project by clicking the cross button on the upper right of the member name.
 
-### プロジェクトをクローズする
+### Close the project
 
-「クローズする」ボタンをクリックするとプロジェクトはクローズ（完了）となります。完了したプロジェクトは「プロジェクトを選択してください」の一覧などから除外されます。
+Click the "Close" button to close (complete) the project. Completed projects are excluded from the "Please select a project" list.
 
-### プロジェクトをリオープンする
+### Reopen the project
 
-クローズ済みのプロジェクトを再開する場合は、画面上部の「完了済を表示」のスイッチをオンにし、表示されたプロジェクトの「リオープンする」ボタンをクリックしてください。
+To restart a closed project, turn on the "Show Closed" switch at the top of the screen and click the "Re-open" button for the displayed project.

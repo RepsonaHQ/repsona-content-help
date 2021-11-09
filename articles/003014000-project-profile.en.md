@@ -1,64 +1,62 @@
 ---
-title: プロジェクト情報を設定する
+title: Set project information
 categoryId: settings
 subCategoryId: Project settings
-translating: true
 ---
 
-Repsona ではプロジェクト単位でタスクを管理します。プロジェクトの名前や目的などを明確にして、プロジェクトメンバーと共通認識を持てるようにしましょう。ここではプロジェクトの設定について説明します。
+Repsona manages tasks on a project basis. Clarify the name and purpose of the project so that you can have a common understanding with the project members. This section describes the project settings.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-## プロジェクト情報を設定する
+## Set project information
 
 ![Project Menu](/images/help/project-menu.en.png)
 
-1. プロジェクトメニュー右の設定をクリックします。
-2. 「プロジェクト情報」タブを開きます。
+1. Click Settings on the right side of the project menu.
+2. Open the Project Profile tab.
 
-### 正式名称を設定する
+### Set the full name (official name)
 
-「正式名称」を入力して「変更を保存する」をクリックして設定できます。人間が見てわかりやすい名称をつけましょう。
+You can set it by entering the "Full name (official name" and clicking "Save". Give it a name that is easy for humans to see.
 
-この仕事は、このチームは、何をしているのか。このプロジェクトに名前をつけてください。「〇〇開発プロジェクト」「〇〇を〇〇するチームのタスク管理」「〇〇制作委員会」など。
+What is this job doing? What is this team doing? Give this project a name. "XX development project", "task management of teams that do XX", "XX production committee", etc.
 
-### プロジェクトネームを設定する
+### Set the project name
 
-「プロジェクトネーム」を入力して「変更を保存する」をクリックして設定できます。3〜30文字で、半角英数字、ドット「.」、ハイフン「-」、アンダーバー「_」が利用可能です
-。システム内部で利用します。
+You can set it by entering the "Project Name" and clicking "Save". Half-width alphanumeric characters, dots ".", Hyphen "-", and underscore "_" can be used in 3 to 30 characters. It is used inside the system.
 
-### プロジェクトの目的を設定する
+### Set the purpose of the project
 
-「プロジェクトの目的」を入力して「変更を保存する」をクリックして設定できます。プロジェクトホームに表示されます。 プロジェクトに新しく参加したメンバーが、このプロジェクトの目的がわかるように、そしてプロジェクトメンバーがワクワクするような、「我々がここにいる重要な理由」を記載してください。
+You can set it by entering the "Project Purpose" and clicking "Save". It will be displayed in the project home. Please state "important reasons why we are here" so that new members of the project can understand the purpose of this project and the project members are excited.
 
-### プロジェクトプロフィール画像を設定する
+### Set a project profile image
 
-「画像を変更する」をクリックし、画像をアップロードしてください。drag-and-dropでアップロードすることもできます。サイズや位置を調整し、OKをクリックすると設定できます。
+Click "Change photo" and upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
 
-プロジェクトプロフィールの画像は Repsona 内のプロジェクトを表示するあらゆる場面で利用されます。
+The image of the project profile will be used everywhere in Repsona.
 
-### 背景画像を設定する
+### Set the background image
 
-「背景画像を変更する」をクリックし、画像をアップロードしてください。drag-and-dropでアップロードすることもできます。サイズや位置を調整し、OKをクリックすると設定できます。
+Click "Change your background" and upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
 
-背景画像は、プロジェクトの各ページの背景画像として利用されます。プロジェクトの雰囲気が伝わるものを、 Repsona を楽しく使えるように、設定してください。
+The background image is used as the background image for each page of the project. Set up something that conveys the mood of your project so that you can enjoy Repsona.
 
-### プロジェクトを複製する
+### Duplicate the project
 
-*プロジェクトを複製するはスタンダードプランでのみ可能です*
+*Project duplication is possible only with the standard plan*
 
-1. 「プロジェクトを複製する」ボタンをクリックします。
-2. プロジェクトの名称、プロジェクトネームを設定します（プロジェクトネームはそのまま利用すると「プロジェクトネームがすでに存在します 」となります。別のプロジェクトネームをセットしてください）
-3. プロジェクトの開始日をセットします。
-4. 初期メンバーをセットします。
-5. 「複製」ボタンをクリックします。
+1. Click the "Duplicate" button of the project you want to duplicate.
+2. Set the project name and project name (If you use the project name as it is, it will be "Project name already exists". Please set another project name)
+3. Set the start date of the project.
+4. Set the initial members
+5. Click the "Duplicate" button.
 
-### プロジェクトをクローズする
+### Close the project
 
-「クローズする」ボタンをクリックするとプロジェクトはクローズ（完了）となります。完了したプロジェクトは「プロジェクトを選択してください」の一覧などから除外されます。
+Click the "Close" button to close (complete) the project. Completed projects are excluded from the "Please select a project" list.
 
-### プロジェクトをリオープンする
+### Reopen the project
 
-「プロジェクトをリオープンする」ボタンをクリックしてください。
+To restart a closed project, turn on the "Show Closed" switch at the top of the screen and click the "Re-open" button for the displayed project.

@@ -1,36 +1,35 @@
 ---
-title: 通知を設定する
+title: Set up notifications
 categoryId: settings
 subCategoryId: User settings
-translating: true
 ---
 
-Repsona ユーザー（自分が利用するアカウント）の通知設定について説明します。
+Describes the notification settings for Repsona users (accounts they use).
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |All|All|
 
-## 通知を設定する
+## Set up notifications
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "User Settings".
-3. 「通知」タブを開きます。
+3. Open the Notifications tab.
 
-### 通知
+### Notifications
 
-「全て通知」「メンションと関与」「なし」から選択できます。通知はタスクにコメントがついた時や、ステータスが変わった時などに送信されます。「メンションと関与」がおすすめです。
+You can select from "All", "Mentions and involvement", and "None". Notifications are sent when a task is commented or when its status changes. "Mention and involvement" is recommended.
 
-### 受信設定
+### Receiving
 
-メール通知、ブラウザ通知、モバイル通知の受信可否設定ができます。自分自身の操作を通知するかどうかも設定できます。
+You can set whether to receive email notifications, browser notifications, and mobile notifications. You can also set whether to notify your own operations.
 
-### ニュース
+### News
 
-#### 更新情報を受け取る
+#### Receive update information
 
-Repsona に関する更新情報をメールでお届けします。
+We will email you updates about Repsona.
 
-#### タスクリマインダーを受け取る
+#### Receive task reminders
 
-Repsona から毎朝届くタスクリマインダーを送信します。自分が責任者となっているタスクやボールを保持しているタスクについて、優先順で期日の接近などをお知らせします。
+Send a task reminder from Repsona that arrives every morning. We will inform you of the approaching due date in order of priority for the task for which you are in charge and the task for holding the ball.

@@ -1,28 +1,27 @@
 ---
-title: プロジェクトを公開する
+title: Make the project public
 categoryId: settings
 subCategoryId: Project settings
-translating: true
 ---
 
-Repsona プロジェクトの公開設定について説明します。Repsona はインターネット上にプロジェクトを公開することができます。
+Describes the public settings for the Repsona project. Repsona can publish projects on the internet.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-プロジェクトを公開すると、ログインしていないユーザーでも、ステータスボードのタスク一覧を表示できるようになります。プロジェクトメンバーのネームやアイコンも公開されます。添付ファイルのダウンロードや、コメントの投稿は、ログインしているユーザーだけができます。
+Making a project public allows users who are not logged in to view the task list on the status board. The names and icons of project members will also be published. Only logged-in users can download attachments and post comments.
 
-## プロジェクトを公開する
+## Make the project public
 
 ![Project Menu](/images/help/project-menu.en.png)
 
-1. プロジェクトメニュー右の設定をクリックします。
-2. 「公開設定」タブを開きます。
-3. 「プロジェクトをインターネットに公開する」をオンにします。
-4. 「変更を保存する」をクリックします。
+1. Click Settings on the right side of the project menu.
+2. Open the Change visibility tab.
+3. Turn on "Make the project public on the Internet".
+4. Click Save.
 
-## プロジェクトの公開を停止する
+## Make your project private
 
-3. 「プロジェクトをインターネットに公開する」をオフにします。
-4. 「変更を保存する」をクリックします。
+3. Turn off "Make the project public on the Internet".
+4. Click Save.

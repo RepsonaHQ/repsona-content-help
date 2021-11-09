@@ -1,52 +1,51 @@
 ---
-title: ユーザー情報を設定する
+title: Set user profile
 categoryId: settings
 subCategoryId: User settings
-translating: true
 ---
 
-Repsona を利用するにあたり、自分のプロフィールや自己紹介などを設定することで、より便利に楽しくプロジェクトを進めることができます。ユーザー情報設定について説明します。
+By setting your own profile and self-introduction when using Repsona, you can proceed with the project more conveniently and enjoyably. This section describes the user profile settings.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |All|All|
 
-## ユーザー情報を設定する
+## Set user profile
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "User Settings".
-3. 「ユーザー情報」タブを開きます。
+3. Open the User Profile tab.
 
-### フルネームを設定する
+### Set full name
 
-「フルネーム」を入力して「変更を保存する」をクリックして設定できます。フルネームは Repsona 内でユーザーを表示する場合などに利用されます。全角日本語なども利用可能です。
+You can set it by entering the "Full Name" and clicking "Save". The full name is used, for example, to display the user within Repsona. Full-width Japanese is also available.
 
-### ユーザーネームを設定する
+### Set user name
 
-「ユーザーネーム」を入力して「変更を保存する」をクリックして設定できます。3〜15文字で、半角英数字、ドット「.」、ハイフン「-」、アンダーバー「_」が利用可能です。コメントでメンションする場合などに利用します。
+You can set it by entering a "username" and clicking "Save". Half-width alphanumeric characters, dots ".", Hyphen "-", and underscore "_" can be used in 3 to 15 characters. It is used when mentioning in a comment.
 
 <img src="/images/help/mention.png" width="442">
 
-### 「何をやっていますか？」を設定する
+### Set "What are you doing?"
 
-「何をやっていますか？」を入力して「変更を保存する」をクリックして設定できます。メンバーのプロフィール画面に自己紹介のような形で表示されます。
+You can set it by entering "What are you doing?" and clicking "Save". It will be displayed on the member's profile screen as if it were a self-introduction.
 
-こんなことを書いてみてはいかがでしょうか。
+How about writing something like this?
 
-- 会社の中での役割、参加しているプロジェクトと自分の役割
-- 得意なこと、保有している資格や技術
-- 自分のこと、家族のこと、好きなもののこと
-- 喜びを感じること、悲しみを感じること、怒りを感じること
-- わからないこと、教えて欲しいこと
+- Role in the company, participating projects and your own role
+- What you are good at, the qualifications and skills you have
+- About yourself, your family, your favorite things
+- Feeling joy, feeling sadness, feeling angry
+- What you don't understand, what you want someone to tell you
 
-### ユーザープロフィール画像を設定する
+### Set user profile photo
 
-「画像を変更する」をクリックし、画像をアップロードしてください。drag-and-dropでアップロードすることもできます。サイズや位置を調整し、OKをクリックすると設定できます。
+Click "Change photo" and upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
 
-ユーザープロフィールの画像は Repsona 内のユーザーを表示するあらゆる場面で利用されます。画像やプロフィールがあれば、あなたであることがすぐにわかります。メンバー同士のコミュニケーションを取りやすくしましょう！
+The user profile photo is used everywhere in Repsona. With an image or profile, your teammates will know it's you right away. Let's make it easier for members to communicate with each other!
 
-### 背景画像を設定する
+### Set the background image
 
-「背景画像を変更する」をクリックし、画像をアップロードしてください。drag-and-dropでアップロードすることもできます。サイズや位置を調整し、OKをクリックすると設定できます。
+Click "Change your background" and upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
 
-背景画像は、ホーム画面とプロフィール画面の背景画像として利用されます。あなたのこと、あなたの雰囲気が伝わる素敵な画像を、ぜひ設定してください。
+The background image is used as the background image for the home screen and profile screen. Please set a nice image that conveys you and your atmosphere.

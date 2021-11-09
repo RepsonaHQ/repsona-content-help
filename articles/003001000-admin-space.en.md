@@ -1,40 +1,39 @@
 ---
-title: スペース情報を設定する
+title: Set space information
 categoryId: settings
 subCategoryId: Administrator settings
-translating: true
 ---
 
-Repsona 内のメンバー、プロジェクトやタスク、ノートなどの全ては、ひとつの「スペース」の中で管理されます。スペース情報の設定方法について説明します。
+Members, projects, tasks, notes, etc. in Repsona are all managed in one "space". This section explains how to set the space information.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
-|オーナー|すべて|
+|Owner|All|
 
-## スペース情報を設定する
+## Set space information
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. 「スペース情報」タブを開きます。
+3. Open the Space Profile tab.
 
-### スペース名（URL）
+### Space name (URL)
 
-スペース名（URL）を設定することができます。`xxx.repsona.com` の `xxx` の部分は、3〜30文字で、小文字の半角英数字とハイフン「-」が利用可能で、その中の文字列から自由に設定、変更が可能です。
+You can set the space name (URL). The `xxx` part of` xxx.repsona.com` is 3 to 30 characters, lowercase alphanumeric characters and hyphen "-" can be used, and it can be set and changed freely.
 
-URLを変更すると、古いURLではアクセスができなくなり、メンバー全員がログアウトします。変更したことを必ずメンバーに伝えてください。
+If you change the URL, the old URL will no longer be accessible and all members will be logged out. Be sure to tell the members that you have changed.
 
-### 正式名称
+### Full name (official name)
 
-スペース全体の正式名称を設定できます。プロジェクトを実行するチームが所属する組織、会社名などを入力してください。
+You can set the official name of the space. Enter the organization, company name, etc. to which the team that executes the project belongs.
 
-### スペースの言語
+### Space language
 
-スペースで利用するメインの言語を設定してください。システム通知や招待メールなど、スペース全体で利用される言語に影響があります。
+Please set the main language to use in the space. It affects the languages used throughout the space, such as system notifications and invitation emails.
 
-### お知らせ
+### Information
 
-このスペースで Repsona を利用するメンバーの画面にお知らせを表示することができます。組織内での告知などにご利用ください。
+You can display notifications on the screens of members who use Repsona in this space. Please use it for announcements within the organization.
 
-### スペースを削除する
+### Delete your space
 
-スペースを削除することができます。スペースを削除すると、元に戻すことはできません。ご注意ください。スペース内の全てのデータにアクセスすることができなくなります。有効な有料プラン登録が存在する場合は、スペースを削除できません。
+You can delete the space. Once you remove the space, it is irreversible. Please be careful. You will not be able to access all the data in the space. Spaces cannot be deleted if a valid paid plan registration exists.

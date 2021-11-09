@@ -1,33 +1,32 @@
 ---
-title: Slack 連携を設定する
+title: Slack Integration
 categoryId: settings
 subCategoryId: Project settings
-translating: true
 ---
 
-Repsona プロジェクトのSlack 連携設定について説明します。Slack連携を使うと、活動状況や更新情報の通知をリアルタイムで受け取ることができます。
+Describes the Slack integration settings for the Repsona project. With Slack integration, you can receive real-time notifications of activity status and updates.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-![Slack連携](/images/slack-integration/1.png)
+![Slack integration](/images/slack-integration/1.png)
 
-## Slack 連携を設定する
+## Set up Slack integration
 
 ![Project Menu](/images/help/project-menu.en.png)
 
-1. プロジェクトメニュー右の設定をクリックします。
-2. 「Slack連携」タブを開きます。
-3. 「Slack連携を追加する」をクリックします。
-4. Slackの認証画面が表示されるので、ワークスペースとチャンネルを選択してください。
+1. Click Settings on the right side of the project menu.
+2. Open the "Slack Integration" tab.
+3. Click Add Slack Integration.
+4. When the Slack authentication screen is displayed, select the workspace and channel.
 
-![Slack連携](/images/slack-integration/3-en.png)
+![Slack integration](/images/slack-integration/3-en.png)
 
-タスクやノートを更新して、Slackに通知されることをご確認ください。
+Please update your task or note to make sure Slack is notified.
 
-## Slack 連携を削除する
+## Remove Slack integration
 
-「Slack連携」画面の一覧の「削除」ボタンで削除できます。
+You can delete it by clicking the "Del" button in the list on the "Slack integration" screen.
 
-![Slack連携](/images/slack-integration/4-en.png)
+![Slack integration](/images/slack-integration/4-en.png)

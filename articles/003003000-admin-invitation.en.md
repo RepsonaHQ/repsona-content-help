@@ -1,36 +1,35 @@
 ---
-title: スペースへの招待リンクを設定する
+title: Set up an invitation link to the space
 categoryId: settings
 subCategoryId: Administrator settings
-translating: true
 ---
 
-Repsona スペース内にメンバーを招待するための招待リンクを作成できます。招待リンクを共有すれば、誰でもスペースに参加することができます。招待リンクの作成方法を説明します。
+You can create an invitation link to invite members within the Repsona space. Anyone can join the space by sharing the invitation link. Explains how to create an invitation link.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
 |Owner, Admin|All|
 
-## スペースへの招待リンクを設定する
+## Set up an invitation link to the space
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. 「招待リンク」タブを開きます。
+3. Open the Invitation Links tab.
 
-### 招待リンクを作成する
+### Create an invitation link
 
-1. 「招待リンクを作成する」ボタンをクリックします。
-1. 招待リンクの有効期限と招待したいプロジェクトを設定し、「作成する」ボタンをクリックします。
-1. リンクのURLが作成されるので、メールやその他の連絡方法で共有してください。
+1. Click the "Create an invitation link" button.
+1. Set the expiration date of the invitation link and the project you want to invite, and click the "Create" button.
+1. The URL of the link will be created, so please share it by email or other contact method.
 
-### 招待リンクを共有する
+### Share the invitation link
 
-1. 「コピー」ボタンをクリックします。
-1. URLがコピーされ、ペーストできる状態になります。
-1. メールやその他の連絡手段で、URLを招待したい人に送ってください。
+1. Click the "Copy" button.
+1. The URL is copied and ready to be pasted.
+1. Send the URL to the person you want to invite by email or other means of contact.
 
-共有されたURLへアクセスし、メールアドレスを入力することで、どなたでもスペースに参加することができます。
+Anyone can join the space by accessing the shared URL and entering their email address.
 
-### 招待リンクを無効化する
+### Invalidate invitation links
 
-「無効化」ボタンをクリックすることで、招待リンクを無効化することができます。 一度無効化すると元に戻せません。新たに招待する場合は新しいリンクを作成し、共有してください。
+You can invalidate the invitation link by clicking the "Invalidate" button. Once invalidated, it cannot be undone. If you want to invite a new person, please create a new link and share it.

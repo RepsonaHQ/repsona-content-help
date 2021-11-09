@@ -1,44 +1,42 @@
 ---
-title: 料金・お支払い
+title: Billing
 categoryId: settings
 subCategoryId: Administrator settings
-translating: true
 ---
 
-Repsona の有料プランをご利用いただくには、お支払い方法を設定してプラン変更の手続きをしてください。お支払い方法の設定や、お支払い履歴の確認方法について説明しします。
+To use Repsona's paid plan, please set the payment method and change the plan. Explains how to set the payment method and how to check the payment history.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
-|オーナー|すべて|
+|Owner|All|
 
-## 料金・お支払い
+## Billing
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. 「料金・お支払い」タブを開きます。
+3. Open the Billing tab.
 
-### ご利用中のプラン
+### Plan in use
 
-ご利用中のプラン「フリープラン」「スタンダードプラン」のいずれかを表示します。
+The plan you are using "Free plan" or "Standard plan" is displayed.
 
-フリープランご利用中の場合は、「スタンダードプランにアップグレードする」ボタンが表示されます。
+If you are using the free plan, the "Upgrade to Standard" button will be displayed.
 
-スタンダードプランご利用中の場合は、次回のお支払い予定の時期と金額を表示します。
-「プランを変更する」ボタンから、プラン変更できます。
+If you are using the standard plan, the time and amount of your next payment will be displayed. You can change the plan from the "Change plan" button.
 
-### お支払い方法
+### Payment method
 
-Repsona 有料プランのお支払いは、クレジットカードのみ対応しております。お支払いにご利用いただくクレジットカード情報を追加できます。
+Repsona paid plans only accept credit cards. You can add the credit card information used for payment.
 
-### クレジットカードを変更する
+### Change credit card
 
-新しいカード情報を入力し「カードを追加する」ボタンをクリックしてください。カードが追加され一覧表示されます。新しく利用するカードの「このカードを利用する」ボタンをクリックしてください。
+Enter your new card information and click the "Add Card" button. Cards are added and listed. Click the "Use this card" button for your new card.
 
-### 会社の名前と所在地
+### Company Name and Location
 
-会社の名前と所在地の情報を設定できます。この情報は請求書に記載されます。
+You can set the company name and location information. This information will be included on the invoice.
 
-### お支払い履歴
+### Payment history
 
 お支払い履歴を確認できます。請求書番号のリンクから、請求書、領収書のダウンロードができます。 お支払い履歴は、最新 24 ヶ月分のみ表示されます。
 
