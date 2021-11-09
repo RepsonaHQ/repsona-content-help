@@ -38,10 +38,10 @@ You can set the company name and location information. This information will be 
 
 ### Payment history
 
-お支払い履歴を確認できます。請求書番号のリンクから、請求書、領収書のダウンロードができます。 お支払い履歴は、最新 24 ヶ月分のみ表示されます。
+You can check the payment history. You can download invoices and receipts from the invoice number link. Payment history is only displayed for the latest 24 months.
 
-### フリープランに切り替える
+### Switch to free plan
 
-有効な有料プランがある場合、「フリープランに切り替える」ボタンが表示されます。プランの有効期限が切れるまで自動的に継続し、期日がきたタイミングでフリープランに移行します。
+If you have a valid paid plan, you will see a "Switch to free plan" button. It will continue automatically until the plan expires, and when the due date comes, it will shift to the free plan.
 
-フリープランではプロジェクトは1つまでなので、フリープラン移行後に利用するプロジェクトを選択して、フリープランへの切り替えを実施してください。
+Since there is only one project in the free plan, please select the project to be used after becoming the free plan and switch to the free plan.
