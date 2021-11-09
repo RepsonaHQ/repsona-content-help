@@ -2,7 +2,6 @@
 title: System Requirements to Use Repsona
 categoryId: other
 subCategoryId: Useful information
-translating: true
 ---
 
 See Supported Operating Systems (OS) and Browsers below for technical requirements to run Repsona.
