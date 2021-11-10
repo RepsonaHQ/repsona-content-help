@@ -130,7 +130,7 @@ When you click the code button, it will be surrounded by <code>```</code>. If yo
 Images can be inserted by drag-and-drop them into the editor. You can also enter the URL of the image on the Internet and insert it in the document.
 
 ```
-![画像挿入](https://repsona.com/images/logo.png)
+![Logo](https://repsona.com/images/logo.png)
 ```
 
 ## If you find Markdown difficult, just write it in text
