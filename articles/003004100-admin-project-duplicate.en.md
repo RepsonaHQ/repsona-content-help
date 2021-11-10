@@ -4,7 +4,7 @@ categoryId: settings
 subCategoryId: Administrator settings
 ---
 
-Repsona スペース内のプロジェクトを複製することができます。プロジェクトの雛形を作って、繰り返し利用することができて便利です。プロジェクトの複製方法について説明します。
+You can duplicate the project in the Repsona space. It is convenient because you can create a project template and use it repeatedly. Describes how to duplicate a project.
 
 |Who can use this feature|Plans that can use this function|
 |---|---|
