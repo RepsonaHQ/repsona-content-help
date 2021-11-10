@@ -56,7 +56,7 @@ Display the team screen. Teammates are all the members who move this project for
 
 ### Charts
 
-チャート画面を表示します。チャート画面では「累積フロー図」「タグ割合」「バーンダウンチャート」を表示することができます。
+Display the chart screen. On the chart screen, you can display "cumulative flow chart", "tag ratio", and "burndown chart".
 
 ### Productivity
 
