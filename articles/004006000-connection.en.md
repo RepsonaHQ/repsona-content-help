@@ -1,26 +1,25 @@
 ---
-title: Repsona の WebSocket 接続について
+title: About Repsona WebSocket connection
 categoryId: other
 subCategoryId: Useful information
-translating: true
 ---
 
-Repsona への接続やページの更新、タスク等の更新が正常に行われない場合、このページを参照してください。
+If you are having trouble connecting to Repsona, updating pages, updating tasks, etc., please refer to this page.
 
-## システム要件の確認
+## Check system requirements
 
-サポートしている OS ブラウザと、最新版の Repsona を利用しているかご確認ください。サポート対象外や、古いバージョンを利用していると、接続の問題が生じる可能性がある他、機能が利用できない場合もあります。
+Make sure you are using a supported OS browser and the latest version of Repsona. If you are using an unsupported or older version of your browser, you may experience connectivity issues and may not be able to use the features.
 
-## ネットワーク設定
+## Network settings
 
-Repsona の使用には、Repsona サーバーとメンバーのアプリやブラウザー間での持続的な接続が必須となります。接続のために Repsona はポート 443 経由の WebSocket を使用しています。
+Repsona requires a persistent connection between the Repsona server and member apps and browsers. Repsona is using WebSockets over port 443 for the connection.
 
-場合によっては、プロキシやファイアウォールがこの接続を妨害することがあります。必要に応じて、設定を変更して Repsona への接続を常時オープンな状態に保つ必要があります。
+In some cases, proxies and firewalls can block this connection. If necessary, you should change the settings to keep the connection to Repsona open at all times.
 
-## ネットワーク環境
+## Network environment
 
-ウィルス対策ソフトや広告ブロックソフト、セキュリティ環境、ファイアウォールは Repsona の接続を妨害する可能性があります。
+Antivirus software, ad blocking software, security environments, and firewalls can interfere with Repsona's connection.
 
-ソフトを一時的に無効にすることで、接続問題のトラブルシューティングが容易になることもあります。この操作によって問題が解決した場合は、そのソフトウェアが Repsona を許可しているか確認してください。
+Temporarily disabling the software may also make it easier to troubleshoot connectivity issues. If this resolves the issue, make sure the software allows Repsona.
 
-接続に関する問題が解決しない場合には、お問い合わせください。
+If you still have a connection problem, please contact us.
