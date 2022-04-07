@@ -9,7 +9,7 @@ Now you're ready to get started with Repsona. You can get started right away wit
 
 ## Create your space
 
-1. Go to https://repsona.com/create.
+1. Go to [https://repsona.com/create](https://repsona.com/create).
 1. Enter the "Space name" and "Email address" to create a new one.
 1. When you receive the email, press the "Set a Password to Login" button.
 1. Set a password and login, then you're done!

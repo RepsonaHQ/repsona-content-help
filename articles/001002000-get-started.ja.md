@@ -9,7 +9,7 @@ subCategoryId: Repsona をはじめる
 
 ## スペースの作成
 
-1. https://repsona.com/create にアクセスします。
+1. [https://repsona.com/create](https://repsona.com/create) にアクセスします。
 1. 「スペース名」と「メールアドレス」を入力して新規作成します。
 1. メールが届いたら『パスワードをセットしてログイン』のボタンを押します。
 1. パスワードを設定してログインができたら完了！
