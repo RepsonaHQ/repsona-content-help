@@ -49,3 +49,7 @@ The user profile photo is used everywhere in Repsona. With an image or profile, 
 Click "Change your background" and upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
 
 The background image is used as the background image for the home screen and profile screen. Please set a nice image that conveys you and your atmosphere.
+
+### Setting Colors
+
+Click on the lower left color selection button on the user profile image to display the color selection palette. Select the color you prefer. This color will be used throughout Repsona, including the Gantt chart bars.

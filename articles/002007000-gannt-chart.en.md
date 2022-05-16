@@ -36,7 +36,7 @@ First, list the tasks you want to manage in your project. Identify all tasks tha
 
 <img src="/images/help/gantt-bar.png" width="181">
 
-To the right of the task is a date-separated area. Clicking on this part will bring up a "bar" where you can set the due date for the task. The bar can be moved, stretched and shrunk by drag-and-drop.
+To the right of the task is a date-separated area. Clicking on this part will bring up a "bar" where you can set the due date for the task. The bar can be moved, stretched and shrunk by drag-and-drop. The color of the bar is automatically determined by the color of the responsible user. The user's color can be changed in the user settings.
 
 ### Adjust period, due date, bias (adjust bar)
 
