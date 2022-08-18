@@ -25,8 +25,16 @@ Describes the Slack integration settings for the Repsona project. With Slack int
 
 Please update your task or note to make sure Slack is notified.
 
-## Remove Slack integration
+## Configure Slack collaboration items
 
-You can delete it by clicking the "Del" button in the list on the "Slack integration" screen.
+You can select events to be notified to Slack. Uncheck and update events that do not require notification.
 
 ![Slack integration](/images/slack-integration/4-en.png)
+
+### About Slack Notifications
+
+If an account has the same email address as the person you are mentoring in Repsona, they will also be mentioned in Slack. All specified events will be notified. It is recommended to set the notification setting of the linked Slack channel to "Mention Only".
+
+## Deleting Slack Linkage
+
+You can delete it by clicking the "Del" button in the list on the "Slack integration" screen.
