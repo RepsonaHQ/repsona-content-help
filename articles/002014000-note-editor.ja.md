@@ -57,7 +57,7 @@ HTMLに自動的に変換され、以下のように表示されます。
 
 Markdown の記法を覚えていなくても大丈夫です。Repsona のノートエディタには、テキストを装飾するための記述を自動的に挿入するツールバーがついています。
 
-![ノートエディタツールバー](/images/help/markdonw-editor-toolbar.png)
+![ノートエディタツールバー](/images/help/markdown-editor-toolbar.png)
 
 #### 見出し
 

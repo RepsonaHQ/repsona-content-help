@@ -57,7 +57,7 @@ Click the + button to create a note and open the note editor screen.
 
 You don't have to remember Markdown notation. Repsona's Note Editor has a toolbar that automatically inserts text to decorate your text.
 
-![Note Editor toolbar](/images/help/markdonw-editor-toolbar.png)
+![Note Editor toolbar](/images/help/markdown-editor-toolbar.png)
 
 #### Heading
 
