@@ -4,7 +4,7 @@ categoryId: get-started
 subCategoryId: Get started on Repsona
 ---
 
-For those who are new to Repsona and project management. Repsona is very easy to use. Introducing an easy usage guide.
+For those who are new to Repsona and work management. Repsona is very easy to use. Introducing an easy usage guide.
 
 You may have been surprised by the many menus when you first opened Repsona. But don't be afraid! At first, you only need to use the "Task list"!
 

@@ -72,4 +72,4 @@ On the other hand, in actual work, it may not be evaluated if there is a lot of 
 
 Members who are in a position to evaluate by looking at productivity and score should comprehensively evaluate not only the numerical value of the score but also the activity content and the positive reaction received.
 
-Repsona is continuously being upgraded as a people-centric project management tool. We will deeply consider these evaluation mechanisms and plan additional development so that you can use them more conveniently.
+Repsona is continuously being upgraded as a people-centric work management tool. We will deeply consider these evaluation mechanisms and plan additional development so that you can use them more conveniently.

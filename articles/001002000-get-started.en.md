@@ -35,4 +35,4 @@ If you know the name and details of your project, please set it.
 
 The settings for the first project are complete.
 
-New to project management? do not be afraid. First, let's create one task and finish it.
+New to work management? do not be afraid. First, let's create one task and finish it.
