@@ -1,5 +1,5 @@
 ---
-title: What is a Gantt chart? How to use and utilize the Gantt chart
+title: How to use and utilize the Gantt chart
 categoryId: how-to-use
 subCategoryId: Task management
 ---
@@ -19,6 +19,20 @@ The Gantt chart is a list of tasks on the vertical axis and a period on the hori
 You can get a panoramic view of the tasks of the entire project, and at a glance you can see information such as the order in which tasks are to be carried out, due dates, and responsible persons.
 
 With Repsona, you can easily create the following Gantt charts with just a click or drag-and-drop.
+
+*[Gantt chart](/w/Gantt%20chart/gantt), 
+[Progress chart](/w/Progress%20chart/gantt), 
+[Project schedule](/w/Project%20schedule/gantt), 
+[Cross-sectional project schedule](/w/Cross-sectional%20project%20schedule/gantt), 
+[Bar chart](/w/Bar%20chart/gantt), 
+[Schedule chart](/w/Schedule%20chart/gantt), 
+[Project chart](/w/Project%20chart/gantt), 
+[Work plan chart](/w/Work%20plan%20chart/gantt), 
+[Timeline](/w/Timeline/gantt), 
+[Time axis](/w/Time%20axis/gantt), 
+[Progress report](/w/Progress%20report/gantt), 
+[Task management chart](/w/Task%20management%20chart/gantt), 
+and so on, depending on the type of job and industry.*
 
 ![Gantt chart](/images/features/en/gantt.webp)
 
