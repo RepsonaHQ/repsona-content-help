@@ -22,6 +22,8 @@ You can move to the project settings screen from the "Settings" button on the pr
 
 So that people outside this project and newcomers to the project can understand this project at a glance. Also, so that teammates who have participated in the project for a long time can continue to be excited. Please set with all your heart.
 
+*"Settings" requires Owner or Admin privileges.*
+
 ### React
 
 You can react to the project at the project home. Express the type of project with tags, or express your gratitude with pictograms.
