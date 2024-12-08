@@ -36,4 +36,8 @@ Select the project in Repsona where you want to import the data. Open the projec
 
 <img src="/images/help/sub-menu.png" width="36">
 
+*↑ submenu button*
+
+<img src="/images/help/import.en.png" width="200">
+
 Select "Import from Gantt-san json" and upload the json file to import the data.

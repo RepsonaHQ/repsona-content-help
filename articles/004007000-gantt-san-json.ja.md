@@ -36,4 +36,8 @@ Repsona のインポートしたいプロジェクトを選択します。プロ
 
 <img src="/images/help/sub-menu.png" width="36">
 
+*↑ サブメニューボタン*
+
+<img src="/images/help/import.ja.png" width="200">
+
 「Gantt-san json インポート」を選択して、json ファイルをアップロードすると、インポートできます。
