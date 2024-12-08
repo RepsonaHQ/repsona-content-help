@@ -52,6 +52,8 @@ A submenu is displayed to the right of the inviting members and the no-login mem
 
 <img src="/images/help/sub-menu.png" width="36">
 
+*↑ submenu button*
+
 #### Set an email address and invite
 
 If you want to change the email address of the member you are inviting and re-invite, please set a new email address and click the "Send Invitation Email" button.

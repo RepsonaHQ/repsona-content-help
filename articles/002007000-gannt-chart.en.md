@@ -128,6 +128,8 @@ You can export xlsx from the task list submenu.
 
 <img src="/images/help/sub-menu.png" width="36">
 
+*↑ submenu button*
+
 ## Set task dependencies
 
 ### Make task dependencies
