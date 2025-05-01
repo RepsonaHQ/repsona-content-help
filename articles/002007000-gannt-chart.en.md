@@ -155,3 +155,7 @@ Since the preceding task and the succeeding task are displayed, delete them with
 Gantt charts are especially useful for looking at the entire project from a "time" perspective. You can visualize the flow from the beginning to the end of a project, how busy it is, task dependencies, and the resulting waits.
 
 Gantt charts are useful when you want to schedule an overall project, or when you have an order or due date for task execution. Make sure you know who has to do what by when, and get the job done!
+
+## Data Migration from Gantt-san to Repsona
+
+[Please see here for data migration from Gantt-san to Repsona](004007000-gantt-san-json)
