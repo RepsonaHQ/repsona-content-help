@@ -22,4 +22,4 @@ Antivirus software, ad blocking software, security environments, and firewalls c
 
 Temporarily disabling the software may also make it easier to troubleshoot connectivity issues. If this resolves the issue, make sure the software allows Repsona.
 
-If you still have a connection problem, please contact us.
+If the connection issue persists, please contact your organization's network administrator. If you need further assistance, feel free to reach out to Repsona.
