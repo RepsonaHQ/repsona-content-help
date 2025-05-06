@@ -4,36 +4,33 @@ categoryId: other
 subCategoryId: Useful information
 ---
 
-See Supported Operating Systems (OS) and Browsers below for technical requirements to run Repsona.
+For details on the technical requirements needed to run Repsona, please refer to the supported operating systems (OS) and browsers below.
 
 ## Desktop
 
-|OS|Requirements||
-|---|---|---|
-|MacOS|OS X 10.10 or above|supported|
-|Windows|Windows 10 or above|supported|
+| OS      | Requirements            | Status    |
+|---------|-------------------------|-----------|
+| macOS   | macOS 12 or later       | Supported |
+| Windows | Windows 11 version 21H2 | Supported |
 
 ## Mobile
 
-|OS|Requirements||
-|---|---|---|
-|iOS|iOS 10.0 or above|Supported (App)|
-|Android|Android 4.4 or above|Supported (App)|
+| OS      | Requirements        | Status              |
+|---------|---------------------|---------------------|
+| iOS     | iOS 17 or later     | Supported (via app) |
+| Android | Android 11 or later | Supported (via app) |
 
-## Web Browser
+## Web Browsers
 
-When using the desktop web browser, be sure to use the following supported browser.
+When using the desktop web version, please use one of the supported browsers below.
 
-|OS|Requirements||
-|---|---|---|
-|Safari|Latest version|supported|
-|Firefox|Latest version|supported|
-|Google Chrome|Latest version|supported|
-|Microsoft Edge|Latest version|supported|
+| Browser        | Requirements         | Status    |
+|----------------|----------------------|-----------|
+| Chrome         | Version 130 or later | Supported |
+| Firefox        | Version 131 or later | Supported |
+| Safari         | Version 18 or later  | Supported |
+| Microsoft Edge | Version 129 or later | Supported |
 
-## Unsupported Browser and OS
+## Unsupported Browsers and Operating Systems
 
-In order to use it comfortably,
-Repsona has limited supported browsers and operating systems.
-Because the correction of the defect is done only for the support target.
-Please use a supported browser.
+To ensure a smooth experience, Repsona limits support to specific browsers and OS versions. Bug fixes and other support are only provided for supported environments, so please use one of the recommended browsers.
