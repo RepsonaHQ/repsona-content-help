@@ -86,7 +86,7 @@ You can create and search tasks in the same way as the "Task List" screen.
 
 ### Set the display period
 
-Click the button with "Display start date - Display end date" to display a calendar in which you can select the period. If you set the period on the calendar, you can set the display period of the Gantt chart. Click the cross button to reset to the default period.
+Click the button with "Display start date - Display end date" to display a calendar in which you can select the period. If you set the period on the calendar, you can set the display period of the Gantt chart. Click the cross button to reset to the default period. You can lock the display period with the lock button.
 
 ### Move to "today" location
 
@@ -96,9 +96,9 @@ Clicking the "Today" button will move the side-scrolling position of the Gantt c
 
 Click the "Day", "Week", and "Month" buttons to display the Gantt chart in units of each period.
 
-### Display in units of "List", "Responsible", and "Milestone"
+### Display in units of "List", "Responsible", "Ball", and "Milestone"
 
-Click the "Resp" and "Milestone" buttons to group and display the Gantt chart in each unit. "List" is displayed without grouping.
+Click the "Responsible", "Ball", and "Milestone" buttons to group and display the Gantt chart in each unit. "List" is displayed without grouping.
 
 ### Display information such as task name in the bar
 
@@ -107,6 +107,22 @@ Click the "i" button to display the task title, status, and due date to the righ
 ### Lock Gantt chart edits
 
 Click the padlock button to lock the Gantt chart edits (only affects yourself). The default is locked.
+
+### Display in due date order
+
+Click the due date sort button to sort the tasks in the Gantt chart by due date. Since the parent-child relationship is maintained during sorting, subtasks are sorted within the due date of the parent task.
+
+### Display progress lines
+
+Press the lightning line button to display progress lines.
+
+### Move task bars together
+
+Press the move together button to be able to move task bars together. Tasks with parent-child relationships or dependencies will move together. Also, if you hold down Shift and select multiple tasks, the selected tasks can be moved together at the same time.
+
+### "Undo" "Redo"
+
+By pressing the "Undo" and "Redo" buttons, you can return to the previous state or redo it.
 
 ### Add milestones
 

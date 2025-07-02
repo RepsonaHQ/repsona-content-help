@@ -4,6 +4,8 @@ categoryId: how-to-use
 subCategoryId: other
 ---
 
+*This feature has been discontinued*
+
 Repsona can share comments like social media. Explains how to use "What are you doing now?" On the home screen.
 
 |Who can use this feature|Plans that can use this function|

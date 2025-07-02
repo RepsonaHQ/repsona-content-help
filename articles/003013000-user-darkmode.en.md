@@ -13,11 +13,15 @@ Describes the display mode (dark mode, light mode) settings for Repsona users (a
 ## Set to dark mode
 
 1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Turn on the "Dark Mode" switch.
+2. Click "Appearance Mode".
+3. Click "Dark".
+4. Click "Save".
 
 ## Set to light mode
 
 1. Open the setting menu from the icon on the upper right of the screen.
-2. Turn off the "Dark Mode" switch.
+2. Click "Appearance Mode".
+3. Click "Light".
+4. Click "Save".
 
 *By default, it automatically follows the system settings.*
