@@ -20,18 +20,15 @@ You can get a panoramic view of the tasks of the entire project, and at a glance
 
 With Repsona, you can easily create the following Gantt charts with just a click or drag-and-drop.
 
-*[Gantt chart](/w/Gantt%20chart/gantt), 
-[Progress chart](/w/Progress%20chart/gantt), 
-[Project schedule](/w/Project%20schedule/gantt), 
-[Cross-sectional project schedule](/w/Cross-sectional%20project%20schedule/gantt), 
-[Bar chart](/w/Bar%20chart/gantt), 
-[Schedule chart](/w/Schedule%20chart/gantt), 
-[Project chart](/w/Project%20chart/gantt), 
-[Work plan chart](/w/Work%20plan%20chart/gantt), 
-[Timeline](/w/Timeline/gantt), 
-[Time axis](/w/Time%20axis/gantt), 
-[Progress report](/w/Progress%20report/gantt), 
-[Task management chart](/w/Task%20management%20chart/gantt), 
+*[Gantt chart](/lp/free-gantt/Gantt%20chart), 
+[Progress chart](/lp/free-gantt/Progress%20chart), 
+[Project schedule](/lp/free-gantt/Project%20schedule), 
+[Bar chart](/lp/free-gantt/Bar%20chart), 
+[Schedule chart](/lp/free-gantt/Schedule%20chart), 
+[Project chart](/lp/free-gantt/Project%20chart), 
+[Timeline](/lp/free-gantt/Timeline), 
+[Progress report](/lp/free-gantt/Progress%20report), 
+[Task management chart](/lp/free-gantt/Task%20management%20chart), 
 and so on, depending on the type of job and industry.*
 
 ![Gantt chart](/images/features/en/gantt.webp)
