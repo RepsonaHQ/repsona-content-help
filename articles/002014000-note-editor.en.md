@@ -4,7 +4,7 @@ categoryId: how-to-use
 subCategoryId: Knowledge sharing
 ---
 
-With Repsona, you can create "notes (Markdown compatible)" of know-how and knowledge within the team, and organize and share information. Learn how to use the Markdown editor for notes.
+With Repsona, you can create notes (Markdown-compatible) to capture team know-how, and organize and share information. Learn how to use the Markdown editor for notes.
 
 | Who can use it | Available on |
 |---|---|
@@ -12,11 +12,11 @@ With Repsona, you can create "notes (Markdown compatible)" of know-how and knowl
 
 ## What is Markdown?
 
-Markdown is a "notation for writing sentences". You can easily write in text, decorate characters such as bold and italics, and structure documents with headings.
+Markdown is a lightweight markup language for writing. You can write in plain text, apply formatting like bold or italics, and structure documents with headings.
 
-It's just text (plain text), so you can easily start writing as if you were leaving a note without any decoration or structuring. You can concentrate on the original work of "writing" without "I don't know how to use the app and it takes time to adjust paragraphs and positions".
+Because it’s just text (plain text), you can start writing immediately—like jotting notes—without worrying about layout. Focus on the work of writing, not on adjusting paragraphs or positions.
 
-In fact, this help site is also created with Markdown.
+This help site is also written in Markdown.
 
 ## Features of Markdown
 

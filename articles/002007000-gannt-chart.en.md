@@ -62,13 +62,13 @@ Draw a bar for each task and adjust the start and end. Ensure there’s enough t
 
 Use the "Responsible" grouping to see if work is skewed toward a particular person. In real projects, people aren’t working every minute of a timeline bar, so "overlapping bars = busy" doesn’t always hold. Discuss the plan with project managers and teammates, and adjust bars together to create a realistic schedule.
 
-#### First perfection
+#### Aim for a solid first draft, not perfection
 
-You can't make a perfect plan from the beginning. It is recommended that the first edition be completed when you say, "I wonder if it's something like this." What you really need to spend time on is not planning, but executing.
+You can’t make a perfect plan from the start. Create a reasonable first draft—“something like this”—and move on. The time is better spent executing than polishing a plan endlessly.
 
-#### The plan is a creature
+#### Plans are living documents
 
-When you make a plan, you may get the illusion that you are going according to plan, or you may get caught up in the idea that you have to go according to plan. But plans are creatures. It is important to notice outside the plan and take countermeasures, and to constantly review and reflect on the plan. Let's grow the plan.
+When you make a plan, it’s easy to assume reality will follow it exactly. In practice, plans should evolve. Watch for signals outside the plan, take countermeasures, and regularly review and adjust. Let the plan grow with the project.
 
 ## How to use the Gantt chart
 
