@@ -6,9 +6,9 @@ subCategoryId: Knowledge sharing
 
 With Repsona, you can create "notes (Markdown compatible)" of know-how and knowledge within the team, and organize and share information. Learn how to use the Markdown editor for notes.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## What is Markdown?
 
@@ -55,7 +55,7 @@ Click the + button to create a note and open the note editor screen.
 
 ### Decorate the text
 
-You don't have to remember Markdown notation. Repsona's Note Editor has a toolbar that automatically inserts text to decorate your text.
+You don’t need to memorize Markdown. Repsona’s note editor has a toolbar that inserts the notation for you.
 
 ![Note Editor toolbar](/images/help/markdown-editor-toolbar.png)
 
@@ -87,7 +87,7 @@ Click the strikethrough button to insert `~~~~`. Select the character you want t
 
 <img src="/images/help/note-editor-toolbar-link.png" width="23">
 
-Clicking the link button inserts `[link title] ()`. Select the URL you want to link to and click this button to create a link surrounded by the link description. The `link title` part is the link string.
+Click the link button to insert `[link text](URL)`. Enter the URL and link text to create the link. The `link text` is the clickable label.
 
 #### List
 
@@ -123,11 +123,11 @@ Click the quote button to insert `>`. Select the character you want to quote and
 
 <img src="/images/help/note-editor-toolbar-code.png" width="23">
 
-When you click the code button, it will be surrounded by <code>```</code>. If you have a character string that you want to write without program code or decoration, enclose it in this. Select the character you want to code and click this button to enclose it into a code block.
+Click the code button to wrap content in <code>```</code>. If you want to show text without formatting, enclose it in a code block. Select the text and click this button to wrap it in a code block.
 
 #### Image
 
-Images can be inserted by drag-and-drop them into the editor. You can also enter the URL of the image on the Internet and insert it in the document.
+Insert images by dragging and dropping them into the editor. You can also paste or type an image URL to insert it into the document.
 
 ```
 ![Logo](https://repsona.com/images/logo.png)

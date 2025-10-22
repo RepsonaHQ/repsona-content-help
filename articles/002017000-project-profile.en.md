@@ -4,11 +4,11 @@ categoryId: how-to-use
 subCategoryId: Project and Team
 ---
 
-Repsona believes that knowing the project and empathizing with the work will improve teamwork. Enhance your project profile screen to build a better team. This section describes the project profile screen and how to use it.
+We believe that understanding the project and building empathy for the work improves teamwork. Enhance your project profile to build a better team. This article describes the project profile screen and how to use it.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Project profile screen
 
@@ -20,13 +20,13 @@ The contents set in the project settings are displayed on this screen.
 
 You can move to the project settings screen from the "Settings" button on the project profile screen.
 
-So that people outside this project and newcomers to the project can understand this project at a glance. Also, so that teammates who have participated in the project for a long time can continue to be excited. Please set with all your heart.
+Set it so newcomers and stakeholders can understand the project at a glance—and so long-time teammates stay motivated.
 
 *"Settings" requires Owner or Admin privileges.*
 
 ### React
 
-You can react to the project at the project home. Express the type of project with tags, or express your gratitude with pictograms.
+You can react to the project on the project home. Use tags to express the type of project, or show appreciation with emoji.
 
 ### Status
 

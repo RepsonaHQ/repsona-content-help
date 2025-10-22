@@ -1,5 +1,5 @@
 ---
-title: Data Migration from Gantt-san to Repsona
+title: Migrate data from Gantt-san to Repsona
 categoryId: other
 subCategoryId: Useful information
 ---
@@ -8,31 +8,31 @@ This guide explains how to migrate data from Gantt-san to Repsona.
 
 ## What is Gantt-san?
 
-[Gantt-san: Free Gantt Chart No Sign up No Log in](https://repsona.com/lp/free-gantt) is an online Gantt chart service that can be used completely free without account registration, login, or download.
+[Gantt-san: Free Gantt Chart — No Sign-up, No Login](https://repsona.com/lp/free-gantt) is an online Gantt chart service that you can use completely free—no account registration, login, or download required.
 
-## Exporting json from Gantt-san
+## Export JSON from Gantt-san
 
-The Gantt charts created in Gantt-san can be exported in json format. Click the "Export" button at the top of the Gantt-san screen to download the file.
+You can export Gantt-san charts in JSON format. Click the "Export" button at the top of the Gantt-san screen to download the file.
 
-## Before Importing
+## Before importing
 
-Repsona manages data in a different format compared to Gantt-san. You need to set up statuses and members in Repsona in advance.
+Repsona manages data in a different format from Gantt-san. Set up statuses and members in Repsona in advance.
 
-### Creating Statuses
+### Create statuses
 
-The statuses you want to import must be created in Repsona beforehand. From the statuses screen, create the statuses with the same names as those used in Gantt-san.
+Create in Repsona the statuses you want to import, using the same names as in Gantt-san.
 
-[Set the name and number of statuses](/help/articles/002008000-status)
+[Set status names and order](/help/articles/002008000-status)
 
-### Inviting Members
+### Invite members
 
-The members you want to import must be invited or created in Repsona beforehand. From the project settings screen, invite or create members with the same names as those used in Gantt-san.
+Invite or create the members in Repsona beforehand, using the same names as in Gantt-san.
 
 [Invite your teammates to Repsona](/help/articles/001004000-invite)
 
-## Importing Gantt-san json into Repsona
+## Import Gantt-san JSON into Repsona
 
-Select the project in Repsona where you want to import the data. Open the project’s "Task List" submenu by clicking on it.
+Select the project in Repsona where you want to import the data. Open the project’s "Task list" submenu.
 
 <img src="/images/help/sub-menu.png" width="36">
 
@@ -40,4 +40,4 @@ Select the project in Repsona where you want to import the data. Open the projec
 
 <img src="/images/help/import.en.png" width="200">
 
-Select "Import from Gantt-san json" and upload the json file to import the data.
+Select "Import from Gantt-san JSON" and upload the JSON file to import the data.

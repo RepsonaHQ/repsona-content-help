@@ -4,24 +4,24 @@ categoryId: settings
 subCategoryId: Project settings
 ---
 
-Describes the public settings for the Repsona project. Repsona can publish projects on the internet.
+This page explains public settings for Repsona projects. You can publish a project on the internet.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner, Admin|All|
+| Owner, Admin | All |
 
-Making a project public allows users who are not logged in to view the task list on the status board. The names and icons of project members will also be published. Only logged-in users can download attachments and post comments.
+Making a project public allows users who are not logged in to view the task list on the status board. The names and icons of project members are also visible. Only logged-in users can download attachments and post comments.
 
 ## Make the project public
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-1. Click Settings on the right side of the project menu.
-2. Open the Change visibility tab.
-3. Turn on "Make the project public on the Internet".
-4. Click Save.
+1. Click "Settings" on the right side of the project menu.
+2. Open the "Change visibility" tab.
+3. Turn on "Make the project public on the internet".
+4. Click "Save".
 
-## Make your project private
+## Make the project private
 
-3. Turn off "Make the project public on the Internet".
-4. Click Save.
+1. Turn off "Make the project public on the internet".
+2. Click "Save".

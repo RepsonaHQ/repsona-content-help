@@ -6,9 +6,9 @@ subCategoryId: Get started on Repsona
 
 Invite your teammates to a new project. Members working on the same project must join the project.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner, Admin|All|
+| Owner, Admin | All |
 
 ## Add new teammates to your project
 

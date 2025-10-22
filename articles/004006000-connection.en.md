@@ -1,25 +1,25 @@
 ---
-title: About Repsona WebSocket connection
+title: About the Repsona WebSocket connection
 categoryId: other
 subCategoryId: Useful information
 ---
 
-If you are having trouble connecting to Repsona, updating pages, updating tasks, etc., please refer to this page.
+If you’re having trouble connecting to Repsona—or pages and tasks aren’t updating—see this page.
 
 ## Check system requirements
 
-Make sure you are using a supported OS browser and the latest version of Repsona. If you are using an unsupported or older version of your browser, you may experience connectivity issues and may not be able to use the features.
+Make sure you’re using a supported OS and browser, and the latest version of Repsona. If you’re using an unsupported or older browser, you may experience connectivity issues and some features may not work.
 
 ## Network settings
 
-Repsona requires a persistent connection between the Repsona server and member apps and browsers. Repsona is using WebSockets over port 443 for the connection.
+Repsona uses WebSockets over port 443 to maintain a persistent connection between the Repsona server and member apps and browsers.
 
-In some cases, proxies and firewalls can block this connection. If necessary, you should change the settings to keep the connection to Repsona open at all times.
+Proxies and firewalls can block this connection. If necessary, adjust your settings to allow persistent connections to Repsona.
 
 ## Network environment
 
-Antivirus software, ad blocking software, security environments, and firewalls can interfere with Repsona's connection.
+Antivirus software, ad‑blocking software, security tools, and firewalls can interfere with Repsona’s connection.
 
-Temporarily disabling the software may also make it easier to troubleshoot connectivity issues. If this resolves the issue, make sure the software allows Repsona.
+Temporarily disabling such software can help troubleshoot connectivity issues. If this resolves the issue, configure the software to allow Repsona.
 
-If the connection issue persists, please contact your organization's network administrator. If you need further assistance, feel free to reach out to Repsona.
+If the connection issue persists, contact your organization’s network administrator. If you need further assistance, feel free to contact Repsona Support.
