@@ -1,18 +1,18 @@
 ---
 title: Repsona keyboard shortcuts
 categoryId: how-to-use
-subCategoryId: other
+subCategoryId: Other
 ---
 
-Use keyboard shortcuts to operate Repsona smoothly.
+Use keyboard shortcuts to work in Repsona more efficiently.
 
-|People who can use this feature|Plan that can use this feature|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Keyboard shortcuts
 
-|Actions |Shortcuts |
-|------------------|---------|
-| Display global search modal | `/` |
-| Display a task creation modal | `c` |
+| Action | Shortcut |
+|---------------------------|----------|
+| Open global search | `/` |
+| Open the task creation modal | `c` |

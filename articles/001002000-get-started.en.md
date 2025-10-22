@@ -1,38 +1,37 @@
 ---
 title: How to get started with Repsona
-description: Learn how to use @nuxt/content.
 categoryId: get-started
 subCategoryId: Get started on Repsona
 ---
 
-Now you're ready to get started with Repsona. You can get started right away with your email address and a minute.
+You’re ready to get started with Repsona. You can start right away with just your email address—in under a minute.
 
 ## Create your space
 
 1. Go to [https://repsona.com/create](https://repsona.com/create).
-1. Enter the "Space name" and "Email address" to create a new one.
-1. When you receive the email, press the "Set a Password to Login" button.
-1. Set a password and login, then you're done!
+1. Enter the "Space name" and your "Email address" to create a new space.
+1. When you receive the email, click the "Set a password to log in" button.
+1. Set a password and log in—that’s it!
 
-Now you can start using it right away, but please register your profile as it is.
+You can start using Repsona right away. Next, set up your profile.
 
-## Set up a profile
+## Set up your profile
 
-1. Open the settings menu from the icon at the top right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Click "User Settings".
-3. After setting the name and image, press "Save" to complete.
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
+2. Click "User settings".
+3. Enter your name and upload an image, then click "Save".
 
-With an image or profile, your teammates will know it's you right away. Let's make it easier for members to communicate with each other!
+With a profile photo, your teammates will recognize you at a glance. It also makes communication easier.
 
-## Set up a Project
+## Set up a project
 
-In the initial state, there is a project "Project 1".
-If you know the name and details of your project, please set it.
+By default, a project named "Project 1" is available.
+If you already know your project’s name and details, set them now.
 
-1. Select "Project 1" from the project selection pull-down menu at the top left of the screen.
-1. Click "Settings" on the far right of the project menu to open the project settings.
-2. After setting the image, official name, project name, and project purpose, click "Save" to complete.
+1. Select "Project 1" from the project selector in the upper-left corner of the screen.
+2. Click "Settings" on the far right of the project menu to open project settings.
+3. Set the image, official name, project name, and purpose, then click "Save".
 
-The settings for the first project are complete.
+Your first project is now configured.
 
-New to work management? do not be afraid. First, let's create one task and finish it.
+New to work management? Don’t worry. Start by creating a task and completing it.

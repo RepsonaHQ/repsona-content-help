@@ -4,32 +4,32 @@ categoryId: settings
 subCategoryId: User settings
 ---
 
-Describes the notification settings for Repsona users (accounts they use).
+This page explains notification settings for your Repsona account.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Set up notifications
 
-1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Click "User Settings".
-3. Open the Notifications tab.
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
+2. Click "User settings".
+3. Open the "Notifications" tab.
 
 ### Notifications
 
-You can select from "All", "Mentions and involvement", and "None". Notifications are sent when a task is commented or when its status changes. "Mention and involvement" is recommended.
+Choose one of: "All", "Mentions and involvement", or "None". Notifications are sent when a task is commented on or its status changes. "Mentions and involvement" is recommended.
 
-### Receiving
+### Delivery
 
-You can set whether to receive email notifications, browser notifications, and mobile notifications. You can also set whether to notify your own operations.
+Choose whether to receive email, browser, and mobile notifications. You can also choose whether to be notified of your own actions.
 
 ### News
 
-#### Receive update information
+#### Product updates
 
-We will email you updates about Repsona.
+Receive occasional emails about Repsona updates.
 
-#### Receive task reminders
+#### Task reminders
 
-Send a task reminder from Repsona that arrives every morning. We will inform you of the approaching due date in order of priority for the task for which you are in charge and the task for holding the ball.
+Receive a daily task reminder from Repsona each morning. It lists approaching due dates by priority for tasks you’re responsible for and tasks where you hold the ball.

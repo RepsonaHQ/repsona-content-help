@@ -1,62 +1,62 @@
 ---
-title: For beginners (quick start guide)
+title: Quick start guide (for beginners)
 categoryId: get-started
 subCategoryId: Get started on Repsona
 ---
 
-For those who are new to Repsona and work management. Repsona is very easy to use. Introducing an easy usage guide.
+New to Repsona and work management? Repsona is easy to use. Here’s a simple guide to get started.
 
-You may have been surprised by the many menus when you first opened Repsona. But don't be afraid! At first, you only need to use the "Task list"!
+You might be surprised by the number of menus when you first open Repsona. Don’t worry! To begin with, you only need the "Task list".
 
-Repsona is simple, easy to understand, and designed to be easy for anyone to use. Let's start with the basics.
+Repsona is simple and easy to understand. Let’s start with the basics.
 
 ## How to work with Repsona
 
 1. Create a task
-2. Assign a person
-3. Execute the task
-4. When you're done, "Done"!
+2. Assign an assignee
+3. Work on the task
+4. When you’re done, set the status to "Done"
 
-That's it!
+That’s it!
 
 ## Create a task
 
-You can create a task from the task list > + button.
+You can create a task from the Task list using the + button.
 
 <img src="/images/help/create-button.png" width="46">
 
-Enter a title and create a task. The trick to giving a task name is to use the imperative mood.
+Enter a title to create a task. A good naming tip is to use the imperative form.
 
-Write the details under the task name. Let's clarify what should be done to "finish" this task.
+Write the details under the task name. Clarify what needs to be done to consider this task "finished".
 
-Click the "Create" button to create a task.
+Click the "Create" button to create the task.
 
-## Assign a person
+## Assign an assignee
 
-When you have a task, assign a "responsible person". This person is responsible for performing this task.
+When you have a task, assign an "assignee"—the person responsible for the task.
 
-If the "due date" has been decided, enter it. "Ball" stands for "the person who has the ball temporarily". It is okay if you leave it blank at first or set the same one as the "responsible person".
+If there’s a due date, set it. "Ball" indicates the person temporarily holding the task. You can leave it blank at first or set it to the same person as the assignee.
 
-## Execute the task
+## Work on the task
 
-The person responsible for execution should move the assigned task forward. You may want to temporarily pass someone to proceed. In that case, set it to "ball" and contact them.
+The assignee should move the task forward. You may temporarily hand it off to someone else. In that case, set them as the "ball" and contact them.
 
-You can contact them in the comments section at the bottom of the task screen. Mention their username in the comments and your teammates will be notified.
+You can contact them in the comments section at the bottom of the task screen. Mention their username in a comment and your teammate will be notified.
 
 <img src="/images/help/mention.png" width="442">
 
 Communicate and move your tasks forward step by step.
 
-## When you're done, "Done"!
+## When you’re done, set it to "Done"
 
-Have you finished the task? What should I do to "finish" this task? Check the details of the task, and when you're done, change the "Status" to "Done" and you're done.
+Finished the task? Review the details and, when complete, change the "Status" to "Done".
 
-## Congratulations! The first task is complete!
+## Congratulations! Your first task is complete!
 
-Even the work that seems to be big and endless can be completed small one by one by dividing it and setting a due date. Even for a large project where you can't see the goal at first, divide it into smaller pieces and make a plan.
+Even work that seems big and endless can be completed by breaking it down and setting due dates. For a large project where the goal isn’t yet clear, split it into smaller pieces and make a plan.
 
-It doesn't matter if it's difficult to split. At first, make a rough and big "to-do list", and if you divide the "to-do" little by little, it will grow into a detailed plan.
+Don’t worry if breaking it down is difficult. Start with a rough, high-level to-do list and gradually split items into smaller tasks—it will grow into a detailed plan.
 
-We hope your project will be fun and smooth!
+We hope your project is smooth and enjoyable!
 
-Now, do you need a team for your next task? Invite your teammates.
+Need a team for your next task? Invite your teammates.

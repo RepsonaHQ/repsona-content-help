@@ -4,24 +4,24 @@ categoryId: how-to-use
 subCategoryId: other
 ---
 
-*This feature has been discontinued*
+*This feature has been discontinued.*
 
-Repsona can share comments like social media. Explains how to use "What are you doing now?" On the home screen.
+Repsona included a social-style post feature called “What’s happening?” on the home screen. This page explains how it worked.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
-## 「What's happening?」
+## “What’s happening?”
 
-Move to "Home screen" from the left icon of the main menu.
+Go to the home screen from the leftmost icon in the main menu.
 
-![メインメニュー](/images/help/main-menu.en.png)
+![Main menu](/images/help/main-menu.en.png)
 
-You can post from the text form that says "What's happening?".
+You could post from the text field labeled “What’s happening?”.
 
-The content of the "What's happening?" post can be fed to the home screen feed of members participating in the same project. If you mention it, you will be notified.
+Posts appeared in the home feed of members in the same project. When you mentioned someone, they were notified.
 
-## How to use
+## How it was used
 
-It can be used for communication that is not related to the project or task itself, such as chats between project members, questions and their answers, and small comments.
+It was intended for lightweight communication not tied to a specific project or task—quick chats among project members, questions and answers, and small comments.

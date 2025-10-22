@@ -4,24 +4,24 @@ categoryId: settings
 subCategoryId: User settings
 ---
 
-Describes the display mode (dark mode, light mode) settings for Repsona users (accounts they use).
+This page explains display mode settings (dark mode, light mode) for your Repsona account.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Set to dark mode
 
-1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Click "Appearance Mode".
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
+2. Click "Appearance".
 3. Click "Dark".
 4. Click "Save".
 
 ## Set to light mode
 
-1. Open the setting menu from the icon on the upper right of the screen.
-2. Click "Appearance Mode".
+1. Open the settings menu from the icon in the upper-right corner of the screen.
+2. Click "Appearance".
 3. Click "Light".
 4. Click "Save".
 
-*By default, it automatically follows the system settings.*
+*By default, Repsona follows your system settings.*

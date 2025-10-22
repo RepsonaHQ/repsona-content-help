@@ -4,25 +4,25 @@ categoryId: settings
 subCategoryId: User settings
 ---
 
-Describes the password setting for Repsona users (accounts they use).
+This page explains password settings for your Repsona account.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Set a password
 
-1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Click "User Settings".
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
+2. Click "User settings".
 3. Open the Password tab.
 
-### Change the password
+### Change your password
 
-Enter the "Current password" and "New password" and press the "Save" button.
+Enter your "Current password" and "New password", then click "Save".
 
-### Reset password
+### Reset your password
 
-1. Click the "Reset q" button.
-2. You will receive an email with the subject "Reset your password".
+1. Click the "Reset" button.
+2. You’ll receive an email with the subject "Reset your password".
 3. Click the "Choose a New Password" button in the email.
-4. Enter the "New Password" and click "Continue" to complete the reset.
+4. Enter your "New password" and click "Continue" to complete the reset.

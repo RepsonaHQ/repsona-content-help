@@ -1,43 +1,43 @@
 ---
-title: Manage responsible person with Kanban board
+title: Manage assignees with the Kanban board
 categoryId: how-to-use
 subCategoryId: Task management
 ---
 
-Repsona can use the Kanban board to manage the person responsible for the task. This is an explanation of how to use and utilize the Kanban board of the person in charge.
+Repsona lets you manage task assignees on the Kanban board. This article explains how to use the Assignee view effectively.
 
-The person responsible at Repsona is the person responsible for guiding this task to the goal. It is the person who understands the meaning and details of this task, stays aware of the status quo, and finally completes the task.
+In Repsona, the assignee is responsible for guiding the task to completion. They understand the task’s purpose and details, stay on top of its status, and ultimately complete it.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
-## What is Kanban board?
+## What is a Kanban board?
 
 ![Kanban board](/images/help/kanban.webp)
 
-A Kanban board is a table in which there are named lanes (rows) in which cards are arranged. You can move the card to get an idea of the overall status. On the responsible person screen, you can create lanes for each responsible person and manage tasks while moving them like a card.
+A Kanban board has named lanes (rows) where cards are arranged. You can move cards to understand the overall status. In the Responsible view, you create lanes for each assignee and manage tasks by moving them like cards.
 
-You can see at a glance the bias of tasks for each person in charge.
+You can quickly see how tasks are distributed across assignees.
 
-Repsona automatically creates the following Kanban boards for each responsible person, and you can easily operate them with drag-and-drop.
+Repsona automatically creates a Kanban board for each assignee, and you can easily use it with drag-and-drop.
 
-![Kanban board Responsible](/images/features/en/ball.webp)
+![Kanban board — Responsible](/images/features/en/ball.webp)
 
-## Manage task responsible person on the Kanban board
+## Manage assignees on the Kanban board
 
-Click "Responsible" from the "Project Menu".
+Click "Responsible" in the project menu.
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
 ### Create and search tasks
 
-You can create and search tasks in the same way as the "Task List" screen.
+You can create and search tasks in the same way as on the task list.
 
-### Change the person responsible for the task
+### Change a task’s assignee
 
-Move the "task" on the card by drag-and-drop.
+Drag and drop the task card to change its assignee.
 
 ## When is this Kanban board useful?
 
-The Kanban board format is suitable for looking over the project and grasping the "state". If you look at the person responsible for the task in a Kanban board format, you can see at a glance the bias of the task for each person responsible. Check if the task is concentrated on a specific person.
+The Kanban format is useful for reviewing a project’s overall state at a glance. Viewing tasks by assignee makes it easy to see how work is distributed. Watch for tasks concentrating on a specific person.

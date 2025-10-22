@@ -1,33 +1,33 @@
 ---
-title: Set language and timezone
+title: Set language and time zone
 categoryId: settings
 subCategoryId: User settings
 ---
 
-Describes the language and timezone settings for Repsona users (the accounts they use).
+This page explains language and time zone settings for your Repsona account.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
-## Set language and timezone
+## Set language and time zone
 
-1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
-2. Click "User Settings".
-3. Open the Timezone and Language tab.
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
+2. Click "User settings".
+3. Open the "Time zone & language" tab.
 
-### Set the timezone
+### Time zone
 
-Select your time zone from the "Timezone" pull-down and click the "Save" button. It is used to display the notification time and schedule.
+Select your time zone from the "Time zone" dropdown and click "Save". This affects how notification times and schedules are displayed.
 
-### Set language
+### Language
 
-Select a language from the "Language" pull-down and click the "Save" button. It is used to set the language for the entire Reosona environment you are using.
+Select a language from the "Language" dropdown and click "Save". This sets the language used across Repsona.
 
-### Set the date format
+### Date format
 
-Select a date format from the "Date Format" pull-down and click the "Save Changes" button. You can select from month/day or day/month.
+Select a date format from the "Date format" dropdown and click "Save changes". You can choose month/day or day/month.
 
-### Set the first day of the week
+### First day of the week
 
-Select the day of the week from the "The first day of the week" pull-down and click the "Save changes" button. You can select the start day of the calendar.
+Select a day from the "First day of the week" dropdown and click "Save changes". This sets the calendar’s starting day.

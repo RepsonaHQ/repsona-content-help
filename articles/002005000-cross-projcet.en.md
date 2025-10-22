@@ -1,29 +1,29 @@
 ---
-title: Cross-project across all projects
+title: Cross-project view
 categoryId: how-to-use
 subCategoryId: Overview
 ---
 
-Describes cross-project features that can be managed across all projects within Repsona's space.
+Describes cross-project features that let you manage all projects within a Repsona space.
 
-|Who can use this feature|Plans that can use this function|
+|Who can use it|Available on|
 |---|---|
 |All|Standard plan|
 
-## Display the cross project screen
+## Open the cross-project view
 
 ![Main menu](/images/help/main-menu.en.png)
 
-Select "Cross project" from the "Please select a project" pull-down menu
+From the "Please select a project" dropdown, select "Cross project".
 
 ## Gantt chart
 
-You can display the Gantt chart of all projects across the board. You can also create Gantt charts, comment on tasks, and change status on this screen.
+Displays Gantt charts across all projects. You can also create Gantt charts, comment on tasks, and change statuses on this screen.
 
-## Responsible
+## Assignees
 
-Show responsible persons in Kanban board format across all projects. You can see at a glance the bias of tasks across projects of space members.
+Shows assignees in a Kanban board across all projects. Quickly see workload distribution across members’ projects.
 
-## Ball
+## Ball holders
 
-Shows ball holders in Kanban board format across all projects. You can see at a glance the bias of ball holding across the project of space members.
+Shows ball holders in a Kanban board across all projects. Quickly see how ball holding is distributed across members’ projects.

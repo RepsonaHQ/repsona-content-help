@@ -1,40 +1,40 @@
 ---
-title: Slack Integration
+title: Slack integration
 categoryId: settings
 subCategoryId: Project settings
 ---
 
-Describes the Slack integration settings for the Repsona project. With Slack integration, you can receive real-time notifications of activity status and updates.
+This article explains Slack integration for Repsona projects. With Slack integration, you can receive real-time notifications for activity and updates.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner, Admin|All|
+| Owner, Admin | All |
 
 ![Slack integration](/images/slack-integration/1.png)
 
 ## Set up Slack integration
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-1. Click Settings on the right side of the project menu.
-2. Open the "Slack Integration" tab.
-3. Click Add Slack Integration.
-4. When the Slack authentication screen is displayed, select the workspace and channel.
+1. Click "Settings" on the right side of the project menu.
+2. Open the "Slack integration" tab.
+3. Click "Add Slack integration".
+4. When the Slack permission screen appears, select the workspace and channel.
 
 ![Slack integration](/images/slack-integration/3-en.png)
 
-Please update your task or note to make sure Slack is notified.
+Update a task or note to confirm Slack notifications are working.
 
-## Configure Slack collaboration items
+## Choose which events to notify
 
-You can select events to be notified to Slack. Uncheck and update events that do not require notification.
+Select which events to send to Slack. Uncheck any events you don’t need and save.
 
 ![Slack integration](/images/slack-integration/4-en.png)
 
-### About Slack Notifications
+### About Slack notifications
 
-If an account has the same email address as the person you are mentoring in Repsona, they will also be mentioned in Slack. All specified events will be notified. It is recommended to set the notification setting of the linked Slack channel to "Mention Only".
+If a Slack account uses the same email address as a user in Repsona, they’ll be mentioned in Slack as well. All selected events will trigger notifications. We recommend setting the linked Slack channel’s notifications to "Mentions only".
 
-## Deleting Slack Linkage
+## Delete the Slack integration
 
-You can delete it by clicking the "Del" button in the list on the "Slack integration" screen.
+Click the "Del" button in the list on the "Slack integration" screen.

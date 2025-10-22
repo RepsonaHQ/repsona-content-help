@@ -1,75 +1,73 @@
 ---
-title: Visualize team productivity on a chart
+title: Visualize team productivity with charts
 categoryId: how-to-use
 subCategoryId: Project and Team
 ---
 
-Repsona visualizes productivity. We want to create a world where people who should be evaluated are evaluated correctly and people who should take responsibility take responsibility correctly. Explains how to use and utilize the productivity screen.
+Repsona visualizes productivity. Our goal is a world where people are recognized fairly for their work and responsibilities. This page explains the Productivity screen.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|All|All|
+| All | All |
 
 ## Productivity screen
 
-Click "Productivity" from the "Project Menu".
+Click "Productivity" in the project menu.
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-Chart display productivity for each person.
+Productivity charts show activity for each person.
 
-![productivity](/images/features/en/productivity.webp)
+![Productivity](/images/features/en/productivity.webp)
 
 ### Score
 
-The amount of activity of the members is totaled and the score is displayed.
+Totals a member’s recent activity into a single score.
 
 ### Heat map
 
-The color of the day when there was activity is displayed in blue. The days with a lot of activity are displayed darkly.
+Days with activity are colored blue; darker means more activity.
 
 ### Done tasks
 
-The number that members themselves have changed to completion status.
+Count of tasks this member marked as Done.
 
 ### Done tasks (responsible)
 
-The number of completed tasks that the member was in charge of. for example. The member assigned the responsibility as the execution manager reports the work completed to the team leader of the project team, and if the team leader changes the status of the task to completed, the score will be added here.
+Count of completed tasks the member was responsible for. For example, if the responsible member reports completion and the project lead sets the task to Done, the count increases here.
 
 ### Done tasks (involved)
 
-The number of times the member has completed a task with the ball at least once. For example, a member who has been temporarily assigned a ball as a worker will be scored here when the task's status is complete, assuming that the work has been completed and the ball has been returned.
+Count of tasks that reached Done where the member held the ball at least once (e.g., temporarily held the ball while the task progressed).
 
 ### Received tasks
 
-The number of new balls. It will be added as the number of people who undertook the work as a worker.
+Count of new balls received (work taken on).
 
-### Reaction
+### Reactions
 
-The number of reactions.
+Number of reactions sent.
 
-### Reacted
+### Reactions received
 
-The number of times they were reacted.
+Number of reactions received.
 
-### Contribution to notes
+### Contributions to notes
 
-The number of notes created / updated.
+Number of notes created or updated.
 
 ### Comments
 
-The number of comments.
+Number of comments posted.
 
 ### Total
 
-The sum of these numbers.
+Sum of the above numbers.
 
 ## About the score
 
-Repsona's productivity score is calculated simply. If there is no movement, no charge or ball is received, no contribution to the note, or no original productive activity, the number will not increase. Therefore, it can be said that the amount of activity of members with flat charts is small.
+Repsona’s productivity score is simple. If there’s no movement—no responsibilities taken, no ball received, no contributions to notes, no productive activity—the number won’t increase. Flat charts generally indicate low activity.
 
-On the other hand, in actual work, it may not be evaluated if there is a lot of activity. For example, there are a lot of reactions, a lot of comments, and so on, there are some parts where it is not possible to tell from the chart alone whether or not they have advanced their work.
+However, activity volume alone doesn’t equal impact. For example, many reactions or comments don’t necessarily mean the work advanced. When reviewing productivity and scores, evaluate not only the numbers but also the substance of the activity and the positive reactions received.
 
-Members who are in a position to evaluate by looking at productivity and score should comprehensively evaluate not only the numerical value of the score but also the activity content and the positive reaction received.
-
-Repsona is continuously being upgraded as a people-centric work management tool. We will deeply consider these evaluation mechanisms and plan additional development so that you can use them more conveniently.
+Repsona is continuously improving as a people‑centered work management tool. We’ll keep refining these evaluation mechanisms to make them more useful.

@@ -1,22 +1,22 @@
 ---
-title: Set the product concept image of the project
+title: Set the project’s product concept image
 categoryId: settings
 subCategoryId: Project settings
 ---
 
-Describes the product concept image settings for the Repsona project.
+This page explains how to set the project’s product concept image in Repsona.
 
-After setting the product concept image, it will be displayed on the project home screen. Set an image so that project members and new members can get an overview and purpose of the project at a glance.
+After you set the product concept image, it appears on the project home screen. Choose an image that lets project members and newcomers grasp the project’s overview and purpose at a glance.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner, Admin|All|
+| Owner, Admin | All |
 
-## Set the product concept image of the project
+## Set the product concept image
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-1. Click Settings on the right side of the project menu.
-2. Open the Product concept tab.
+1. Click "Settings" on the right side of the project menu.
+2. Open the "Product concept" tab.
 3. Click "Change the product concept image".
-4. Please upload the image. You can also upload with drag-and-drop. You can set it by adjusting the size and position and clicking OK.
+4. Upload the image. You can also drag and drop. Adjust the size and position, then click "OK".

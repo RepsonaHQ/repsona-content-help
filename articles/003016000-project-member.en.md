@@ -4,19 +4,19 @@ categoryId: settings
 subCategoryId: Project settings
 ---
 
-Describes the member settings of the Repsona project.
+This page explains member settings for a Repsona project.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner, Admin|All|
+| Owner, Admin | All |
 
 ## Set project members
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-1. Click Settings on the right of the project menu.
-2. Open the Members tab.
+1. Click "Settings" on the right side of the project menu.
+2. Open the "Members" tab.
 
-### Set project members
+### Add or remove members
 
-Select the member you want to add to the project from the "Add member" pull-down under the project name and add it. The added member can be removed from the project by clicking the cross button on the upper right of the member name.
+From the "Add member" dropdown under the project name, select and add a member. To remove a member, click the cross button at the upper right of their name.

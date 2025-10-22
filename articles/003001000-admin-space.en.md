@@ -1,39 +1,39 @@
 ---
-title: Set space information
+title: Manage space settings
 categoryId: settings
 subCategoryId: Administrator settings
 ---
 
-Members, projects, tasks, notes, etc. in Repsona are all managed in one "space". This section explains how to set the space information.
+In Repsona, members, projects, tasks, notes, and more are managed within a single "space." This article explains how to configure space settings.
 
-|Who can use this feature|Plans that can use this function|
+| Who can use it | Available on |
 |---|---|
-|Owner|All|
+| Owner | All |
 
-## Set space information
+## Open space settings
 
-1. Open the setting menu from the icon on the upper right of the screen.<br><img src="/images/help/menu-button.png" width="222">
+1. Open the settings menu from the icon in the upper-right corner of the screen.<br><img src="/images/help/menu-button.png" width="222">
 2. Click "Administrator Settings".
-3. Open the Space Profile tab.
+3. Open the "Space profile" tab.
 
 ### Space name (URL)
 
-You can set the space name (URL). The `xxx` part of` xxx.repsona.com` is 3 to 30 characters, lowercase alphanumeric characters and hyphen "-" can be used, and it can be set and changed freely.
+You can set the space name (URL). The `xxx` in `xxx.repsona.com` must be 3–30 characters, using lowercase letters, numbers, and hyphens ("-"). You can change it at any time.
 
-If you change the URL, the old URL will no longer be accessible and all members will be logged out. Be sure to tell the members that you have changed.
+If you change the URL, the old URL will no longer be accessible and all members will be logged out. Be sure to notify members of the change.
 
 ### Full name (official name)
 
-You can set the official name of the space. Enter the organization, company name, etc. to which the team that executes the project belongs.
+Set the official name of the space. Enter the name of the organization or company the project team belongs to.
 
 ### Space language
 
-Please set the main language to use in the space. It affects the languages used throughout the space, such as system notifications and invitation emails.
+Set the primary language used in the space. It affects system notifications, invitation emails, and other space-wide messages.
 
 ### Information
 
-You can display notifications on the screens of members who use Repsona in this space. Please use it for announcements within the organization.
+Display announcements to members who use Repsona in this space. Use this for internal notices.
 
 ### Delete your space
 
-You can delete the space. Once you remove the space, it is irreversible. Please be careful. You will not be able to access all the data in the space. Spaces cannot be deleted if a valid paid plan registration exists.
+You can delete the space. Once deleted, this action cannot be undone. You will lose access to all data in the space. Spaces cannot be deleted if there is an active paid plan.

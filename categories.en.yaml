@@ -2,14 +2,14 @@ title: Help Categories
 categories:
     - id: get-started
       title: Get started
-      description: Welcome to Repsona! Repsona is very easy to use! Let's get started.
+      description: Welcome to Repsona! It's easy to use—let's get started.
       icon: fas fa-rocket text-secondary
       subs:
         - About Repsona
         - Get started on Repsona
     - id: how-to-use
       title: How to use
-      description: We will explain in detail from basic operations to advanced functions!
+      description: Detailed guides from basic operations to advanced features.
       icon: fas fa-book-open text-info
       subs:
         - Overview
@@ -19,7 +19,7 @@ categories:
         - other
     - id: settings
       title: Settings
-      description: About administrator settings, user settings, and project settings.
+      description: Administrator, user, and project settings.
       icon: fas fa-cog text-success
       subs:
         - Administrator settings

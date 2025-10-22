@@ -1,34 +1,34 @@
 ---
 title: Set project holidays
 categoryId: settings
-subCategoryId: project settings
+subCategoryId: Project settings
 ---
 
-This section describes how to set up holidays for Repsona projects.
+This page explains how to set holidays for Repsona projects.
 
-|Persons who can use this feature|Plan that can use this feature|
+| Who can use it | Available on |
 |---|---|
-|Owners, Administrators|All|
+| Owner, Admin | All |
 
 ## Set project holidays
 
-![Project Menu](/images/help/project-menu.en.png)
+![Project menu](/images/help/project-menu.en.png)
 
-1. click on Settings on the right side of the project menu. 2.
-2. open the "Holiday Settings" tab.
+1. Click "Settings" on the right side of the project menu.
+2. Open the "Holiday settings" tab.
 
-### Set the regular holidays / holidays.
+### Set regular days off and holidays
 
-![Project Holiday Settings](/images/help/space-holiday.en.png)
+![Project holiday settings](/images/help/space-holiday.en.png)
 
-### Regular holidays
+### Regular days off
 
-Set the day of the week that will be a holiday each week.
+Set the days of the week that are days off every week.
 
 ### Holidays
 
-Set when there are periods other than days of the week when the entire project is closed, such as national vacations or special periodic vacations.
+Set periods other than weekly days off when the entire project is closed, such as national holidays or special scheduled breaks.
 
-### What happens if I set a holiday?
+### What happens when I set holidays?
 
-If nothing is set, Saturday and Sunday are set as holidays. If you set up individual holidays or weekends, the corresponding period in the calendar or Gantt chart in Repsona will be grayed out and reminder e-mails will not be sent.
+If nothing is set, Saturday and Sunday are treated as days off. When you set specific holidays or weekends, the corresponding periods in Repsona’s calendar and Gantt chart are grayed out, and reminder emails are not sent.

@@ -1,5 +1,5 @@
 ---
-title: System Requirements to Use Repsona
+title: System requirements for using Repsona
 categoryId: other
 subCategoryId: Useful information
 ---
@@ -8,10 +8,10 @@ For details on the technical requirements needed to run Repsona, please refer to
 
 ## Desktop
 
-| OS      | Requirements            | Status    |
-|---------|-------------------------|-----------|
-| macOS   | macOS 12 or later       | Supported |
-| Windows | Windows 11 version 21H2 | Supported |
+| OS      | Requirements              | Status    |
+|---------|---------------------------|-----------|
+| macOS   | macOS 12 or later         | Supported |
+| Windows | Windows 11 21H2 or later  | Supported |
 
 ## Mobile
 
@@ -20,9 +20,9 @@ For details on the technical requirements needed to run Repsona, please refer to
 | iOS     | iOS 17 or later     | Supported (via app) |
 | Android | Android 11 or later | Supported (via app) |
 
-## Web Browsers
+## Web browsers
 
-When using the desktop web version, please use one of the supported browsers below.
+For the web app, use one of the supported browsers below.
 
 | Browser        | Requirements         | Status    |
 |----------------|----------------------|-----------|
@@ -31,6 +31,6 @@ When using the desktop web version, please use one of the supported browsers bel
 | Safari         | Version 18 or later  | Supported |
 | Microsoft Edge | Version 129 or later | Supported |
 
-## Unsupported Browsers and Operating Systems
+## Unsupported browsers and operating systems
 
-To ensure a smooth experience, Repsona limits support to specific browsers and OS versions. Bug fixes and other support are only provided for supported environments, so please use one of the recommended browsers.
+To ensure a smooth experience, Repsona supports only the browsers and OS versions listed above. Bug fixes and other support are provided only for supported environments, so please use one of the recommended browsers.
