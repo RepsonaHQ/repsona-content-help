@@ -137,7 +137,7 @@ You can scroll by using the scroll bar of the window or by dragging the date par
 
 ### Export to XLSX
 
-You can export xlsx from the task list submenu.
+You can export XLSX from the task list submenu.
 
 <img src="/images/help/sub-menu.png" width="36">
 
