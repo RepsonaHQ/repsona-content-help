@@ -20,15 +20,15 @@ You can see the project at a glance, including the order of tasks, due dates, an
 
 With Repsona, you can easily create the following Gantt charts with just a click or drag-and-drop.
 
-*[Gantt chart](/lp/free-gantt/Gantt%20chart),
-[Progress chart](/lp/free-gantt/Progress%20chart),
-[Project schedule](/lp/free-gantt/Project%20schedule),
-[Bar chart](/lp/free-gantt/Bar%20chart),
-[Schedule chart](/lp/free-gantt/Schedule%20chart),
-[Project chart](/lp/free-gantt/Project%20chart),
-[Timeline](/lp/free-gantt/Timeline),
-[Progress report](/lp/free-gantt/Progress%20report),
-[Task management chart](/lp/free-gantt/Task%20management%20chart),
+*[Gantt chart](/w/Gantt%20chart/gantt),
+[Progress chart](/w/Progress%20chart/gantt),
+[Project schedule](/w/Project%20schedule/gantt),
+[Bar chart](/w/Bar%20chart/gantt),
+[Schedule chart](/w/Schedule%20chart/gantt),
+[Project chart](/w/Project%20chart/gantt),
+[Timeline](/w/Timeline/gantt),
+[Progress report](/w/Progress%20report/gantt),
+[Task management chart](/w/Task%20management%20chart/gantt),
 and so on, depending on the type of job and industry.*
 
 ![Gantt chart](/images/features/en/gantt.webp)
