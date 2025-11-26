@@ -7,8 +7,8 @@ subCategoryId: Task management
 You can use Gantt charts on the Free plan. Gantt charts are useful for planning projects. This article explains how to use them effectively.
 
 | Who can use it | Available on |
-|---|---|
-| All | All |
+|----------------|--------------|
+| All            | All          |
 
 ## What is a Gantt chart?
 
@@ -20,15 +20,15 @@ You can see the project at a glance, including the order of tasks, due dates, an
 
 With Repsona, you can easily create the following Gantt charts with just a click or drag-and-drop.
 
-*[Gantt chart](/lp/free-gantt/Gantt%20chart), 
-[Progress chart](/lp/free-gantt/Progress%20chart), 
-[Project schedule](/lp/free-gantt/Project%20schedule), 
-[Bar chart](/lp/free-gantt/Bar%20chart), 
-[Schedule chart](/lp/free-gantt/Schedule%20chart), 
-[Project chart](/lp/free-gantt/Project%20chart), 
-[Timeline](/lp/free-gantt/Timeline), 
-[Progress report](/lp/free-gantt/Progress%20report), 
-[Task management chart](/lp/free-gantt/Task%20management%20chart), 
+*[Gantt chart](/lp/free-gantt/Gantt%20chart),
+[Progress chart](/lp/free-gantt/Progress%20chart),
+[Project schedule](/lp/free-gantt/Project%20schedule),
+[Bar chart](/lp/free-gantt/Bar%20chart),
+[Schedule chart](/lp/free-gantt/Schedule%20chart),
+[Project chart](/lp/free-gantt/Project%20chart),
+[Timeline](/lp/free-gantt/Timeline),
+[Progress report](/lp/free-gantt/Progress%20report),
+[Task management chart](/lp/free-gantt/Task%20management%20chart),
 and so on, depending on the type of job and industry.*
 
 ![Gantt chart](/images/features/en/gantt.webp)
@@ -135,14 +135,6 @@ The line between the task list part and the date part can be adjusted by drag-an
 
 You can scroll by using the scroll bar of the window or by dragging the date part.
 
-### Export to XLSX
-
-You can export XLSX from the task list submenu.
-
-<img src="/images/help/sub-menu.png" width="36">
-
-*↑ submenu button*
-
 ## Set task dependencies
 
 ### Create task dependencies
@@ -168,6 +160,10 @@ Since the preceding task and the succeeding task are displayed, delete them with
 Gantt charts are especially useful for looking at the entire project from a "time" perspective. You can visualize the flow from the beginning to the end of a project, how busy it is, task dependencies, and the resulting waits.
 
 Gantt charts are useful when you want to schedule an overall project, or when you have an order or due date for task execution. Make sure you know who has to do what by when, and get the job done!
+
+### Exporting and Importing
+
+[Exporting and Importing, please see here](002012100-import-export)
 
 ## Data migration from Gantt-san to Repsona
 
