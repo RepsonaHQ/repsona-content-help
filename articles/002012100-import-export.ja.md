@@ -32,7 +32,7 @@ CSV、Gantt-san JSON、XLSX、PDF でエクスポートすることができま�
 
 「Gantt-san エクスポート」を選択すると、Gantt-san JSON 形式でエクスポートすることができます。Gantt-san にインポートして利用することできる形式です。
 
-[Gantt-san ログインなしで無料で誰でも使えるガントチャート](https://repsona.com/ja/lp/free-gantt)
+[ログインなしで無料で誰でも使えるガントチャート](https://repsona.com/ja/lp/free-gantt)
 
 ### XLSX エクスポート
 

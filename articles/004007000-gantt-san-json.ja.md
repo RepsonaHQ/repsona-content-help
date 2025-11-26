@@ -8,7 +8,7 @@ Gantt-san から Repsona へのデータ移行方法について説明します�
 
 ## Gantt-san とは
 
-[Gantt-san ログインなしで無料で誰でも使えるガントチャート](https://repsona.com/ja/lp/free-gantt) はアカウント登録もログインもダウンロードも不要で、ずっと無料で使えるオンラインガントチャートサービスです。
+[ログインなしで無料で誰でも使えるガントチャート](https://repsona.com/ja/lp/free-gantt) はアカウント登録もログインもダウンロードも不要で、ずっと無料で使えるオンラインガントチャートサービスです。
 
 ## Gantt-san から JSON をエクスポート
 

@@ -8,7 +8,7 @@ This guide explains how to migrate data from Gantt-san to Repsona.
 
 ## What is Gantt-san?
 
-[Gantt-san: Free Gantt Chart — No Sign-up, No Login](https://repsona.com/lp/free-gantt) is an online Gantt chart service that you can use completely free—no account registration, login, or download required.
+[Free Gantt Chart — No Sign-up, No Login](https://repsona.com/lp/free-gantt) is an online Gantt chart service that you can use completely free—no account registration, login, or download required.
 
 ## Export JSON from Gantt-san
 

@@ -32,7 +32,7 @@ Select "CSV Export" to export in CSV format. This format uses a CSV layout that 
 
 Select "Gantt-san Export" to export in Gantt-san JSON format. This format can be imported and used in Gantt-san.
 
-[Gantt-san - Free Gantt chart tool available to everyone without login](https://repsona.com/en/lp/free-gantt)
+[Free Gantt chart tool available to everyone without login](https://repsona.com/en/lp/free-gantt)
 
 ### XLSX Export
 
