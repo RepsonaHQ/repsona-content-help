@@ -26,7 +26,7 @@ Create in Repsona the statuses you want to import, using the same names as in Ga
 
 ### Invite members
 
-Invite or create the members in Repsona beforehand, using the same names as in Gantt-san.
+Invite or create members in Repsona beforehand, using the same names as in Gantt-san. You can also register by name only (create a no-login member).
 
 [Invite your teammates to Repsona](/help/articles/001004000-invite)
 
