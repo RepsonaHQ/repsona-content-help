@@ -7,8 +7,8 @@ subCategoryId: Task management
 Repsona allows you to export and import tasks in CSV format and Gantt-san format. It also supports exporting in XLSX and PDF formats.
 
 | Who can use this feature | Plans that can use this feature |
-|-------------|---------------|
-| Everyone    | All plans     |
+|--------------------------|---------------------------------|
+| Everyone                 | All plans                       |
 
 ## Export and Import from Submenu
 
@@ -48,7 +48,26 @@ You can import CSV and Gantt-san JSON formats.
 
 ### CSV Import
 
-Select "CSV Import" to import CSV format. The importable CSV layout is the same as the CSV exported by "CSV Export". Please perform a CSV export with no tasks and use the downloaded file.
+Select "CSV Import" to import CSV format files.
+
+<a href="/files/task-sample.csv" target="_blank">Download Sample CSV</a>
+
+| Column          | Field Name  | Description                                                                         | Example                                                                                                                                                                                                    |
+|-----------------|-------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| id              | ID          | A unique ID to identify the task. Can be any string.                                | 1                                                                                                                                                                                                          |
+| name            | Task Name   | Name of the task                                                                    | Agree budget                                                                                                                                                                                               |
+| description     | Description | Description of the task                                                             | It involves organizing estimated costs, breakdowns, and budget limits, then sharing them with relevant teams and decision-makers.If needed, adjustment options are proposed and final approval is secured. |
+| responsibleUser | Assignee    | Specify the username of the assignee. Must be a member in the space.                | Reon                                                                                                                                                                                                       |
+| ballHoldingUser | Ball Holder | Specify the username of the ball holder. Must be a member in the space.             | Seb                                                                                                                                                                                                        |
+| startDate       | Start Date  | Specify in YYYY-MM-DD format.                                                       | 2024-01-01                                                                                                                                                                                                 |
+| dueDate         | Due Date    | Specify in YYYY-MM-DD format.                                                       | 2024-12-31                                                                                                                                                                                                 |
+| status          | Status      | Specify the task status. Must exist in the project.                                 | Doing                                                                                                                                                                                                      |
+| milestone       | Milestone   | Specify the task milestone. Must exist in the project.                              | v1.37.0                                                                                                                                                                                                    |
+| parent          | Parent ID   | Specify the parent task ID. Use the ID specified in task ID.                        | 4                                                                                                                                                                                                          |
+| tags            | Tags        | Specify tags separated by commas.                                                   | tag1,tag2                                                                                                                                                                                                  |
+| planned         | Planned     | Specify planned work hours etc. Free unit.                                          | 5                                                                                                                                                                                                          |
+| actual          | Actual      | Specify actual work hours etc. Free unit.                                           | 5                                                                                                                                                                                                          |
+| sortOrder       | Sort Order  | Specify display order when importing list. Smaller values are displayed at the top. | 1                                                                                                                                                                                                          |
 
 ### Gantt-san Import
 
