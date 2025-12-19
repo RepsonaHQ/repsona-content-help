@@ -44,11 +44,11 @@ You can set and change member privileges. Choose from "Owner", "Admin", "Member"
 
 ### Set billing status
 
-You can set and change the billing status. Choose from "Active" and "Inactive". On paid plans, there is a charge per active member. Inactive members are not counted as active.
+You can set and change the billing status. Choose from "Active" or "Inactive". On paid plans, there is a charge per active member. Members other than "Active" are not counted as active.
 
 ### Inviting members
 
-A submenu appears to the right of invited members and no-login members who don’t have an email address set.
+Operations can be performed from the submenu.
 
 <img src="/images/help/sub-menu.png" width="36">
 
@@ -67,3 +67,7 @@ You can change the username and full name of the invited member. Information for
 #### Revoke invitation
 
 Revoke the invitation. This operation is irreversible.
+
+### Deactivate members
+
+You can deactivate members from the submenu. Deactivated members will be removed from selection lists such as project participation lists.
